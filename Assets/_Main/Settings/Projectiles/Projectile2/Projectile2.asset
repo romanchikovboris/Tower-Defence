@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8382857f2c244844accf23234750aee6, type: 3}
+  m_Name: Projectile2
+  m_EditorClassIdentifier: 
+  minPower: 10
+  maxPower: 50
+  moveSpeed: 1
+  projectilePrefab: {fileID: 5365986874207192388, guid: 49f38759947f30f46b8b4963f67ea7fd, type: 3}

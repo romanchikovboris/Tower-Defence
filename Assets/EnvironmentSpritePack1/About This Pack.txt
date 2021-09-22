@@ -1,0 +1,30 @@
+Thank you for buying this sprite pack.
+
+Recently Added:
+HD Set
+Top Down Set - Currently in progress, treat this as a preview. An update of this might affect the order
+of the sprites in future versions forcing you to remake maps.
+
+In this pack you will find 4 versions of the Sprite set, each have some added effect 
+on them that give it a little more style.
+
+1) Original High res (with extended assets)
+2) Lower Res, Painterly1 (no extended assets yet)*
+3) Lower Res, Painterly2 (no extended assets yet)*
+4) Lower Res, Smart Blur (no extended assets yet)*
+
+Be sure to have a look at what set you like or use a mix if you like.
+
+New assets will have the same process applied and supplied in the 4 variations
+
+
+I hope you really enjoy these sprites!
+
+All the best,
+Robert Ramsay - RRFreelance.
+
+Notes (for pixel perfect):
+
+Quality settings, turn AA off.
+MSAA off with camera
+Point filter on textures.

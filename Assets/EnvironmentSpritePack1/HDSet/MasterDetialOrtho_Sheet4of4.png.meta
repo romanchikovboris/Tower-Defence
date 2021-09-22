@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: de2a6ed666152d140916f3c3b6ff704f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MasterDetialOrtho_Sheet4of4_0
+  - first:
+      213: 21300002
+    second: MasterDetialOrtho_Sheet4of4_1
+  - first:
+      213: 21300004
+    second: MasterDetialOrtho_Sheet4of4_2
+  - first:
+      213: 21300006
+    second: MasterDetialOrtho_Sheet4of4_3
+  - first:
+      213: 21300008
+    second: MasterDetialOrtho_Sheet4of4_4
+  - first:
+      213: 21300010
+    second: MasterDetialOrtho_Sheet4of4_5
+  - first:
+      213: 21300012
+    second: MasterDetialOrtho_Sheet4of4_6
+  - first:
+      213: 21300014
+    second: MasterDetialOrtho_Sheet4of4_7
+  - first:
+      213: 21300016
+    second: MasterDetialOrtho_Sheet4of4_8
+  - first:
+      213: 21300018
+    second: MasterDetialOrtho_Sheet4of4_9
+  - first:
+      213: 21300020
+    second: MasterDetialOrtho_Sheet4of4_10
+  - first:
+      213: 21300022
+    second: MasterDetialOrtho_Sheet4of4_11
+  - first:
+      213: 21300024
+    second: MasterDetialOrtho_Sheet4of4_12
+  - first:
+      213: 21300026
+    second: MasterDetialOrtho_Sheet4of4_13
+  - first:
+      213: 21300028
+    second: MasterDetialOrtho_Sheet4of4_14
+  - first:
+      213: 21300030
+    second: MasterDetialOrtho_Sheet4of4_15
+  - first:
+      213: 21300032
+    second: MasterDetialOrtho_Sheet4of4_16
+  - first:
+      213: 21300034
+    second: MasterDetialOrtho_Sheet4of4_17
+  - first:
+      213: 21300036
+    second: MasterDetialOrtho_Sheet4of4_18
+  - first:
+      213: 21300038
+    second: MasterDetialOrtho_Sheet4of4_19
+  - first:
+      213: 21300040
+    second: MasterDetialOrtho_Sheet4of4_20
+  - first:
+      213: 21300042
+    second: MasterDetialOrtho_Sheet4of4_21
+  - first:
+      213: 21300044
+    second: MasterDetialOrtho_Sheet4of4_22
+  - first:
+      213: 21300046
+    second: MasterDetialOrtho_Sheet4of4_23
+  - first:
+      213: 21300048
+    second: MasterDetialOrtho_Sheet4of4_24
+  - first:
+      213: 21300050
+    second: MasterDetialOrtho_Sheet4of4_25
+  - first:
+      213: 21300052
+    second: MasterDetialOrtho_Sheet4of4_26
+  - first:
+      213: 21300054
+    second: MasterDetialOrtho_Sheet4of4_27
+  - first:
+      213: 21300056
+    second: MasterDetialOrtho_Sheet4of4_28
+  - first:
+      213: 21300058
+    second: MasterDetialOrtho_Sheet4of4_29
+  - first:
+      213: 21300060
+    second: MasterDetialOrtho_Sheet4of4_30
+  - first:
+      213: 21300062
+    second: MasterDetialOrtho_Sheet4of4_31
+  - first:
+      213: 21300064
+    second: MasterDetialOrtho_Sheet4of4_32
+  - first:
+      213: 21300066
+    second: MasterDetialOrtho_Sheet4of4_33
+  - first:
+      213: 21300068
+    second: MasterDetialOrtho_Sheet4of4_34
+  - first:
+      213: 21300070
+    second: MasterDetialOrtho_Sheet4of4_35
+  - first:
+      213: 21300072
+    second: MasterDetialOrtho_Sheet4of4_36
+  - first:
+      213: 21300074
+    second: MasterDetialOrtho_Sheet4of4_37
+  - first:
+      213: 21300076
+    second: MasterDetialOrtho_Sheet4of4_38
+  - first:
+      213: 21300078
+    second: MasterDetialOrtho_Sheet4of4_39
+  - first:
+      213: 21300080
+    second: MasterDetialOrtho_Sheet4of4_40
+  - first:
+      213: 21300082
+    second: MasterDetialOrtho_Sheet4of4_41
+  - first:
+      213: 21300084
+    second: MasterDetialOrtho_Sheet4of4_42
+  - first:
+      213: 21300086
+    second: MasterDetialOrtho_Sheet4of4_43
+  - first:
+      213: 21300088
+    second: MasterDetialOrtho_Sheet4of4_44
+  - first:
+      213: 21300090
+    second: MasterDetialOrtho_Sheet4of4_45
+  - first:
+      213: 21300092
+    second: MasterDetialOrtho_Sheet4of4_46
+  - first:
+      213: 21300094
+    second: MasterDetialOrtho_Sheet4of4_47
+  - first:
+      213: 21300096
+    second: MasterDetialOrtho_Sheet4of4_48
+  - first:
+      213: 21300098
+    second: MasterDetialOrtho_Sheet4of4_49
+  - first:
+      213: 21300100
+    second: MasterDetialOrtho_Sheet4of4_50
+  - first:
+      213: 21300102
+    second: MasterDetialOrtho_Sheet4of4_51
+  - first:
+      213: 21300104
+    second: MasterDetialOrtho_Sheet4of4_52
+  - first:
+      213: 21300106
+    second: MasterDetialOrtho_Sheet4of4_53
+  - first:
+      213: 21300108
+    second: MasterDetialOrtho_Sheet4of4_54
+  - first:
+      213: 21300110
+    second: MasterDetialOrtho_Sheet4of4_55
+  - first:
+      213: 21300112
+    second: MasterDetialOrtho_Sheet4of4_56
+  - first:
+      213: 21300114
+    second: MasterDetialOrtho_Sheet4of4_57
+  - first:
+      213: 21300116
+    second: MasterDetialOrtho_Sheet4of4_58
+  - first:
+      213: 21300118
+    second: MasterDetialOrtho_Sheet4of4_59
+  - first:
+      213: 21300120
+    second: MasterDetialOrtho_Sheet4of4_60
+  - first:
+      213: 21300122
+    second: MasterDetialOrtho_Sheet4of4_61
+  - first:
+      213: 21300124
+    second: MasterDetialOrtho_Sheet4of4_62
+  - first:
+      213: 21300126
+    second: MasterDetialOrtho_Sheet4of4_63
+  - first:
+      213: 21300128
+    second: MasterDetialOrtho_Sheet4of4_64
+  - first:
+      213: 21300130
+    second: MasterDetialOrtho_Sheet4of4_65
+  - first:
+      213: 21300132
+    second: MasterDetialOrtho_Sheet4of4_66
+  - first:
+      213: 21300134
+    second: MasterDetialOrtho_Sheet4of4_67
+  - first:
+      213: 21300136
+    second: MasterDetialOrtho_Sheet4of4_68
+  - first:
+      213: 21300138
+    second: MasterDetialOrtho_Sheet4of4_69
+  - first:
+      213: 21300140
+    second: MasterDetialOrtho_Sheet4of4_70
+  - first:
+      213: 21300142
+    second: MasterDetialOrtho_Sheet4of4_71
+  - first:
+      213: 21300144
+    second: MasterDetialOrtho_Sheet4of4_72
+  - first:
+      213: 21300146
+    second: MasterDetialOrtho_Sheet4of4_73
+  - first:
+      213: 21300148
+    second: MasterDetialOrtho_Sheet4of4_74
+  - first:
+      213: 21300150
+    second: MasterDetialOrtho_Sheet4of4_75
+  - first:
+      213: 21300152
+    second: MasterDetialOrtho_Sheet4of4_76
+  - first:
+      213: 21300154
+    second: MasterDetialOrtho_Sheet4of4_77
+  - first:
+      213: 21300156
+    second: MasterDetialOrtho_Sheet4of4_78
+  - first:
+      213: 21300158
+    second: MasterDetialOrtho_Sheet4of4_79
+  - first:
+      213: 21300160
+    second: MasterDetialOrtho_Sheet4of4_80
+  - first:
+      213: 21300162
+    second: MasterDetialOrtho_Sheet4of4_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6578
+        width: 959
+        height: 1166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc56b4a05184d48a0b7fad13e10df6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_1
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 6663
+        width: 1412
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637105d9d827024698cd99d8c348cd1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6649
+        width: 1030
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37898b74ca69eb4b8fff13ad0a40acf
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_3
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 6618
+        width: 760
+        height: 1348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00deb5b9999abd349b93a2f09c38cbbe
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_4
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 6846
+        width: 402
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea4d9d09339a04097162822484a7f4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_5
+      rect:
+        serializedVersion: 2
+        x: 5877
+        y: 6799
+        width: 82
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca15e922a336b41adc70e600cdd9bc
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_6
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 6829
+        width: 82
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c518f57cf8811e24b9e288d710103da8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_7
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 6829
+        width: 82
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17327354c722e941828d9057af975cb
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_8
+      rect:
+        serializedVersion: 2
+        x: 6439
+        y: 6819
+        width: 82
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc87728dedc58274ba2ff8274434a275
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_9
+      rect:
+        serializedVersion: 2
+        x: 6701
+        y: 6643
+        width: 441
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d186e321aa7f74ba89db21b3412f13
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_10
+      rect:
+        serializedVersion: 2
+        x: 7409
+        y: 7000
+        width: 305
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81687c0a3e3c0ea4e9a92a1cf738a2fd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5534
+        width: 443
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79e287a38b5d84c954a646f0f4ccee
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_12
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5591
+        width: 441
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc51ec1f0312e4089fcb56a53717d8
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_13
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 5558
+        width: 426
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b33b12b0b20849ad16e8b1d228790
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_14
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 5529
+        width: 746
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc40c770ffb4e4da5e320cad4d122d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_15
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 5563
+        width: 744
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6ba68e40a177498733d8272c6a3fa
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_16
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 5528
+        width: 748
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f26a4719931ad845be07dbeba40bb37
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_17
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 5596
+        width: 772
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e0d167ed6bb5429e0a801920b8e0e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_18
+      rect:
+        serializedVersion: 2
+        x: 5857
+        y: 5723
+        width: 424
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b82ace6e750099408bb214a6943de6f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_19
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 5617
+        width: 707
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60eaf71b05ee5f428d9d5dfbdbab80c
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_20
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3970
+        width: 770
+        height: 1437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3308a5690662e4dbf67d3640fb325b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_21
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 3902
+        width: 752
+        height: 1439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88667935886ddb546889a56109e5bc6c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_22
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 5199
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2921a8c5f9bf1a4689db79f02f49f61
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_23
+      rect:
+        serializedVersion: 2
+        x: 5744
+        y: 5240
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a7f37734ab3d849b1f2cc7947c9708
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_24
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 5301
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb779e691d67fff40804c4cacf0d7cfb
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_25
+      rect:
+        serializedVersion: 2
+        x: 7266
+        y: 5250
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03278686cef0110419d73d119e8f8eaf
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_26
+      rect:
+        serializedVersion: 2
+        x: 5764
+        y: 4974
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf35f1d87be544b85a90d468ddf600
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_27
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 5056
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f1638c7dde0f4a9469c772e4cd637
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_28
+      rect:
+        serializedVersion: 2
+        x: 7266
+        y: 5036
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58831d1c06c4a84abece80727e1f586
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_29
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 4094
+        width: 791
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13216e0197e1d846a772f703f4e887e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_30
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 4198
+        width: 797
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574902388766be43a3d684ddc38655e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_31
+      rect:
+        serializedVersion: 2
+        x: 4993
+        y: 4309
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7d6b884962744d827c65b657a96d3
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_32
+      rect:
+        serializedVersion: 2
+        x: 5764
+        y: 4749
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129e5cc228ff544d83711380a80af55
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_33
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 4831
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5be833e12990b43a0d4edb59e0e223
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_34
+      rect:
+        serializedVersion: 2
+        x: 7302
+        y: 4760
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac56a277681ae349bff9b327b9272da
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_35
+      rect:
+        serializedVersion: 2
+        x: 6482
+        y: 4336
+        width: 402
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a256a247d2d4a458ebf15f5022316f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_36
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 4524
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3aa4f4affc0647a29220b2dfc0a85
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_37
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 4276
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5912a534a62c1404789da9e7ec50f87c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_38
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 4320
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d869632fbb13ee4fbfef3588862f328
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_39
+      rect:
+        serializedVersion: 2
+        x: 7307
+        y: 4085
+        width: 574
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4bc751ba12bf24d84d085050494ed3
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3253
+        width: 558
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2757e1ad03f544abf1a00efbff5ac2
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_41
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3136
+        width: 435
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff60ef57303e045a1119a0187b3cf1
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_42
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 3038
+        width: 411
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac581135a5b404ba17460921bdc53d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_43
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3064
+        width: 565
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bfae62aadd6846b3c88d7c578f437
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_44
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3391
+        width: 499
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e56d844be14dc4392c32a2c560cf6a
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_45
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 2874
+        width: 162
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46224fac97dda143a6e8f5d2856fa3f
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_46
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2863
+        width: 162
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278da91a2013ed54e962f10c9c859319
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_47
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 2884
+        width: 162
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8719e777fb4299142ae53dac998015cb
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_48
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 3360
+        width: 436
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7129ea0ad44a8584bb1dccf4de626de8
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_49
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 3415
+        width: 364
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539cfaa7324c5324fb28e250d0075099
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_50
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 3417
+        width: 411
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3303d78318274ba77ce7f6b92b870
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_51
+      rect:
+        serializedVersion: 2
+        x: 6443
+        y: 3435
+        width: 425
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ff3af9bfb66e4882f615288d69115
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_52
+      rect:
+        serializedVersion: 2
+        x: 7156
+        y: 3371
+        width: 243
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bab458ecde41349b221defdfbf4fec
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_53
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2784
+        width: 436
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e3049f354becb4a86961c71791df6b
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_54
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 2941
+        width: 236
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ac1ef8881e8744868905d18ef51fc
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_55
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 2941
+        width: 276
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33503a957a8a4f48bbf819e8cc06c07
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_56
+      rect:
+        serializedVersion: 2
+        x: 5251
+        y: 2949
+        width: 210
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc881f28cc86940afd93c923a9b132
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_57
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 2868
+        width: 684
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12c8e0686e3814b878d9c455d8add8
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2029
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab14df2ab52b8142890cb3e50faa099
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_59
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 2122
+        width: 416
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f0bc3198ac4f49b5ff580acaa8516
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_60
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 2193
+        width: 435
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10444968ec5e62b44ab5f5d92c568d50
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_61
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2183
+        width: 513
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dae619e46d20343aac3aedbdd526f7
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_62
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2193
+        width: 472
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703866502bebd78438de4ba9a0d7d83c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_63
+      rect:
+        serializedVersion: 2
+        x: 4398
+        y: 2123
+        width: 1347
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8163111ff8c50943970b2f78384e480
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_64
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2527
+        width: 744
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d3efe47d7d884ea74f2e8dd8576a5
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_65
+      rect:
+        serializedVersion: 2
+        x: 7117
+        y: 2146
+        width: 519
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd69c78a6da724dbdec6106ca022fe
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_66
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2051
+        width: 427
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef21b6f685fc5b4381f312cb88a9cb6
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_67
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2250
+        width: 744
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff55595d759f404ea95be5e273bc575
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_68
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1042
+        width: 349
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa69afa6fe5c440b123051dd41b649
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_69
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1016
+        width: 329
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195afa9aff52704f8a9d4aeef8850b7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_70
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 947
+        width: 348
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1b1f99544fa048a3c1cfc9eda7436
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_71
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1109
+        width: 539
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220d2f6cb20832409962c5392bb2f7f
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_72
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1084
+        width: 330
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6fd6363bafc84b8a10eede360075d
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_73
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 1206
+        width: 359
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61ed03a2be4eb40a0565790474c11b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_74
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 1170
+        width: 379
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0a13a2e618d14694de656667d7ada
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_75
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 1115
+        width: 379
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5ddf1c585bc3e408cc67c9b4fa9096
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_76
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 1088
+        width: 490
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927e87b1f8779e7478d813e90c6747ca
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_77
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 1061
+        width: 526
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f41c214a5f8b4aab098a6ef9c2016
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_78
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 1134
+        width: 526
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f1d044adc0bd4ea484e6a9b611e10
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_79
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 1163
+        width: 490
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ffd5d1a4730a41bd711a1584f94f6
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 75
+        width: 821
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6cf0f84f3e404498289d1c39f65830
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasterDetialOrtho_Sheet4of4_81
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 75
+        width: 432
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d7cb015de8c044283fef8210f536fd
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

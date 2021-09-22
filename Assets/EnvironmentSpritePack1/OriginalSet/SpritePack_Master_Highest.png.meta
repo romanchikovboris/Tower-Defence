@@ -1,0 +1,6502 @@
+fileFormatVersion: 2
+guid: d166418bb67d4b548ad97bc4ee66baae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpritePack_Master_Highest_0
+  - first:
+      213: 21300002
+    second: SpritePack_Master_Highest_1
+  - first:
+      213: 21300004
+    second: SpritePack_Master_Highest_2
+  - first:
+      213: 21300006
+    second: SpritePack_Master_Highest_3
+  - first:
+      213: 21300008
+    second: SpritePack_Master_Highest_4
+  - first:
+      213: 21300010
+    second: SpritePack_Master_Highest_5
+  - first:
+      213: 21300012
+    second: SpritePack_Master_Highest_6
+  - first:
+      213: 21300014
+    second: SpritePack_Master_Highest_7
+  - first:
+      213: 21300016
+    second: SpritePack_Master_Highest_8
+  - first:
+      213: 21300018
+    second: SpritePack_Master_Highest_9
+  - first:
+      213: 21300020
+    second: SpritePack_Master_Highest_10
+  - first:
+      213: 21300022
+    second: SpritePack_Master_Highest_11
+  - first:
+      213: 21300024
+    second: SpritePack_Master_Highest_12
+  - first:
+      213: 21300026
+    second: SpritePack_Master_Highest_13
+  - first:
+      213: 21300028
+    second: SpritePack_Master_Highest_14
+  - first:
+      213: 21300030
+    second: SpritePack_Master_Highest_15
+  - first:
+      213: 21300032
+    second: SpritePack_Master_Highest_16
+  - first:
+      213: 21300034
+    second: SpritePack_Master_Highest_17
+  - first:
+      213: 21300036
+    second: SpritePack_Master_Highest_18
+  - first:
+      213: 21300038
+    second: SpritePack_Master_Highest_19
+  - first:
+      213: 21300040
+    second: SpritePack_Master_Highest_20
+  - first:
+      213: 21300042
+    second: SpritePack_Master_Highest_21
+  - first:
+      213: 21300044
+    second: SpritePack_Master_Highest_22
+  - first:
+      213: 21300046
+    second: SpritePack_Master_Highest_23
+  - first:
+      213: 21300048
+    second: SpritePack_Master_Highest_24
+  - first:
+      213: 21300050
+    second: SpritePack_Master_Highest_25
+  - first:
+      213: 21300052
+    second: SpritePack_Master_Highest_26
+  - first:
+      213: 21300054
+    second: SpritePack_Master_Highest_27
+  - first:
+      213: 21300056
+    second: SpritePack_Master_Highest_28
+  - first:
+      213: 21300058
+    second: SpritePack_Master_Highest_29
+  - first:
+      213: 21300060
+    second: SpritePack_Master_Highest_30
+  - first:
+      213: 21300062
+    second: SpritePack_Master_Highest_31
+  - first:
+      213: 21300064
+    second: SpritePack_Master_Highest_32
+  - first:
+      213: 21300066
+    second: SpritePack_Master_Highest_33
+  - first:
+      213: 21300068
+    second: SpritePack_Master_Highest_34
+  - first:
+      213: 21300070
+    second: SpritePack_Master_Highest_35
+  - first:
+      213: 21300072
+    second: SpritePack_Master_Highest_36
+  - first:
+      213: 21300074
+    second: SpritePack_Master_Highest_37
+  - first:
+      213: 21300076
+    second: SpritePack_Master_Highest_38
+  - first:
+      213: 21300078
+    second: SpritePack_Master_Highest_39
+  - first:
+      213: 21300080
+    second: SpritePack_Master_Highest_40
+  - first:
+      213: 21300082
+    second: SpritePack_Master_Highest_41
+  - first:
+      213: 21300084
+    second: SpritePack_Master_Highest_42
+  - first:
+      213: 21300086
+    second: SpritePack_Master_Highest_43
+  - first:
+      213: 21300088
+    second: SpritePack_Master_Highest_44
+  - first:
+      213: 21300090
+    second: SpritePack_Master_Highest_45
+  - first:
+      213: 21300092
+    second: SpritePack_Master_Highest_46
+  - first:
+      213: 21300094
+    second: SpritePack_Master_Highest_47
+  - first:
+      213: 21300096
+    second: SpritePack_Master_Highest_48
+  - first:
+      213: 21300098
+    second: SpritePack_Master_Highest_49
+  - first:
+      213: 21300100
+    second: SpritePack_Master_Highest_50
+  - first:
+      213: 21300102
+    second: SpritePack_Master_Highest_51
+  - first:
+      213: 21300104
+    second: SpritePack_Master_Highest_52
+  - first:
+      213: 21300106
+    second: SpritePack_Master_Highest_53
+  - first:
+      213: 21300108
+    second: SpritePack_Master_Highest_54
+  - first:
+      213: 21300110
+    second: SpritePack_Master_Highest_55
+  - first:
+      213: 21300112
+    second: SpritePack_Master_Highest_56
+  - first:
+      213: 21300114
+    second: SpritePack_Master_Highest_57
+  - first:
+      213: 21300116
+    second: SpritePack_Master_Highest_58
+  - first:
+      213: 21300118
+    second: SpritePack_Master_Highest_59
+  - first:
+      213: 21300120
+    second: SpritePack_Master_Highest_60
+  - first:
+      213: 21300122
+    second: SpritePack_Master_Highest_61
+  - first:
+      213: 21300124
+    second: SpritePack_Master_Highest_62
+  - first:
+      213: 21300126
+    second: SpritePack_Master_Highest_63
+  - first:
+      213: 21300128
+    second: SpritePack_Master_Highest_64
+  - first:
+      213: 21300130
+    second: SpritePack_Master_Highest_65
+  - first:
+      213: 21300132
+    second: SpritePack_Master_Highest_66
+  - first:
+      213: 21300134
+    second: SpritePack_Master_Highest_67
+  - first:
+      213: 21300136
+    second: SpritePack_Master_Highest_68
+  - first:
+      213: 21300138
+    second: SpritePack_Master_Highest_69
+  - first:
+      213: 21300140
+    second: SpritePack_Master_Highest_70
+  - first:
+      213: 21300142
+    second: SpritePack_Master_Highest_71
+  - first:
+      213: 21300144
+    second: SpritePack_Master_Highest_72
+  - first:
+      213: 21300146
+    second: SpritePack_Master_Highest_73
+  - first:
+      213: 21300148
+    second: SpritePack_Master_Highest_74
+  - first:
+      213: 21300150
+    second: SpritePack_Master_Highest_75
+  - first:
+      213: 21300152
+    second: SpritePack_Master_Highest_76
+  - first:
+      213: 21300154
+    second: SpritePack_Master_Highest_77
+  - first:
+      213: 21300156
+    second: SpritePack_Master_Highest_78
+  - first:
+      213: 21300158
+    second: SpritePack_Master_Highest_79
+  - first:
+      213: 21300160
+    second: SpritePack_Master_Highest_80
+  - first:
+      213: 21300162
+    second: SpritePack_Master_Highest_81
+  - first:
+      213: 21300164
+    second: SpritePack_Master_Highest_82
+  - first:
+      213: 21300166
+    second: SpritePack_Master_Highest_83
+  - first:
+      213: 21300168
+    second: SpritePack_Master_Highest_84
+  - first:
+      213: 21300170
+    second: SpritePack_Master_Highest_85
+  - first:
+      213: 21300172
+    second: SpritePack_Master_Highest_86
+  - first:
+      213: 21300174
+    second: SpritePack_Master_Highest_87
+  - first:
+      213: 21300176
+    second: SpritePack_Master_Highest_88
+  - first:
+      213: 21300178
+    second: SpritePack_Master_Highest_89
+  - first:
+      213: 21300180
+    second: SpritePack_Master_Highest_90
+  - first:
+      213: 21300182
+    second: SpritePack_Master_Highest_91
+  - first:
+      213: 21300184
+    second: SpritePack_Master_Highest_92
+  - first:
+      213: 21300186
+    second: SpritePack_Master_Highest_93
+  - first:
+      213: 21300188
+    second: SpritePack_Master_Highest_94
+  - first:
+      213: 21300190
+    second: SpritePack_Master_Highest_95
+  - first:
+      213: 21300192
+    second: SpritePack_Master_Highest_96
+  - first:
+      213: 21300194
+    second: SpritePack_Master_Highest_97
+  - first:
+      213: 21300196
+    second: SpritePack_Master_Highest_98
+  - first:
+      213: 21300198
+    second: SpritePack_Master_Highest_99
+  - first:
+      213: 21300200
+    second: SpritePack_Master_Highest_100
+  - first:
+      213: 21300202
+    second: SpritePack_Master_Highest_101
+  - first:
+      213: 21300204
+    second: SpritePack_Master_Highest_102
+  - first:
+      213: 21300206
+    second: SpritePack_Master_Highest_103
+  - first:
+      213: 21300208
+    second: SpritePack_Master_Highest_104
+  - first:
+      213: 21300210
+    second: SpritePack_Master_Highest_105
+  - first:
+      213: 21300212
+    second: SpritePack_Master_Highest_106
+  - first:
+      213: 21300214
+    second: SpritePack_Master_Highest_107
+  - first:
+      213: 21300216
+    second: SpritePack_Master_Highest_108
+  - first:
+      213: 21300218
+    second: SpritePack_Master_Highest_109
+  - first:
+      213: 21300220
+    second: SpritePack_Master_Highest_110
+  - first:
+      213: 21300222
+    second: SpritePack_Master_Highest_111
+  - first:
+      213: 21300224
+    second: SpritePack_Master_Highest_112
+  - first:
+      213: 21300226
+    second: SpritePack_Master_Highest_113
+  - first:
+      213: 21300228
+    second: SpritePack_Master_Highest_114
+  - first:
+      213: 21300230
+    second: SpritePack_Master_Highest_115
+  - first:
+      213: 21300232
+    second: SpritePack_Master_Highest_116
+  - first:
+      213: 21300234
+    second: SpritePack_Master_Highest_117
+  - first:
+      213: 21300236
+    second: SpritePack_Master_Highest_118
+  - first:
+      213: 21300238
+    second: SpritePack_Master_Highest_119
+  - first:
+      213: 21300240
+    second: SpritePack_Master_Highest_120
+  - first:
+      213: 21300242
+    second: SpritePack_Master_Highest_121
+  - first:
+      213: 21300244
+    second: SpritePack_Master_Highest_122
+  - first:
+      213: 21300246
+    second: SpritePack_Master_Highest_123
+  - first:
+      213: 21300248
+    second: SpritePack_Master_Highest_124
+  - first:
+      213: 21300250
+    second: SpritePack_Master_Highest_125
+  - first:
+      213: 21300252
+    second: SpritePack_Master_Highest_126
+  - first:
+      213: 21300254
+    second: SpritePack_Master_Highest_127
+  - first:
+      213: 21300256
+    second: SpritePack_Master_Highest_128
+  - first:
+      213: 21300258
+    second: SpritePack_Master_Highest_129
+  - first:
+      213: 21300260
+    second: SpritePack_Master_Highest_130
+  - first:
+      213: 21300262
+    second: SpritePack_Master_Highest_131
+  - first:
+      213: 21300264
+    second: SpritePack_Master_Highest_132
+  - first:
+      213: 21300266
+    second: SpritePack_Master_Highest_133
+  - first:
+      213: 21300268
+    second: SpritePack_Master_Highest_134
+  - first:
+      213: 21300270
+    second: SpritePack_Master_Highest_135
+  - first:
+      213: 21300272
+    second: SpritePack_Master_Highest_136
+  - first:
+      213: 21300274
+    second: SpritePack_Master_Highest_137
+  - first:
+      213: 21300276
+    second: SpritePack_Master_Highest_138
+  - first:
+      213: 21300278
+    second: SpritePack_Master_Highest_139
+  - first:
+      213: 21300280
+    second: SpritePack_Master_Highest_140
+  - first:
+      213: 21300282
+    second: SpritePack_Master_Highest_141
+  - first:
+      213: 21300284
+    second: SpritePack_Master_Highest_142
+  - first:
+      213: 21300286
+    second: SpritePack_Master_Highest_143
+  - first:
+      213: 21300288
+    second: SpritePack_Master_Highest_144
+  - first:
+      213: 21300290
+    second: SpritePack_Master_Highest_145
+  - first:
+      213: 21300292
+    second: SpritePack_Master_Highest_146
+  - first:
+      213: 21300294
+    second: SpritePack_Master_Highest_147
+  - first:
+      213: 21300296
+    second: SpritePack_Master_Highest_148
+  - first:
+      213: 21300298
+    second: SpritePack_Master_Highest_149
+  - first:
+      213: 21300300
+    second: SpritePack_Master_Highest_150
+  - first:
+      213: 21300302
+    second: SpritePack_Master_Highest_151
+  - first:
+      213: 21300304
+    second: SpritePack_Master_Highest_152
+  - first:
+      213: 21300306
+    second: SpritePack_Master_Highest_153
+  - first:
+      213: 21300308
+    second: SpritePack_Master_Highest_154
+  - first:
+      213: 21300310
+    second: SpritePack_Master_Highest_155
+  - first:
+      213: 21300312
+    second: SpritePack_Master_Highest_156
+  - first:
+      213: 21300314
+    second: SpritePack_Master_Highest_157
+  - first:
+      213: 21300316
+    second: SpritePack_Master_Highest_158
+  - first:
+      213: 21300318
+    second: SpritePack_Master_Highest_159
+  - first:
+      213: 21300320
+    second: SpritePack_Master_Highest_160
+  - first:
+      213: 21300322
+    second: SpritePack_Master_Highest_161
+  - first:
+      213: 21300324
+    second: SpritePack_Master_Highest_162
+  - first:
+      213: 21300326
+    second: SpritePack_Master_Highest_163
+  - first:
+      213: 21300328
+    second: SpritePack_Master_Highest_164
+  - first:
+      213: 21300330
+    second: SpritePack_Master_Highest_165
+  - first:
+      213: 21300332
+    second: SpritePack_Master_Highest_166
+  - first:
+      213: 21300334
+    second: SpritePack_Master_Highest_167
+  - first:
+      213: 21300336
+    second: SpritePack_Master_Highest_168
+  - first:
+      213: 21300338
+    second: SpritePack_Master_Highest_169
+  - first:
+      213: 21300340
+    second: SpritePack_Master_Highest_170
+  - first:
+      213: 21300342
+    second: SpritePack_Master_Highest_171
+  - first:
+      213: 21300344
+    second: SpritePack_Master_Highest_172
+  - first:
+      213: 21300346
+    second: SpritePack_Master_Highest_173
+  - first:
+      213: 21300348
+    second: SpritePack_Master_Highest_174
+  - first:
+      213: 21300350
+    second: SpritePack_Master_Highest_175
+  - first:
+      213: 21300352
+    second: SpritePack_Master_Highest_176
+  - first:
+      213: 21300354
+    second: SpritePack_Master_Highest_177
+  - first:
+      213: 21300356
+    second: SpritePack_Master_Highest_178
+  - first:
+      213: 21300358
+    second: SpritePack_Master_Highest_179
+  - first:
+      213: 21300360
+    second: SpritePack_Master_Highest_180
+  - first:
+      213: 21300362
+    second: SpritePack_Master_Highest_181
+  - first:
+      213: 21300364
+    second: SpritePack_Master_Highest_182
+  - first:
+      213: 21300366
+    second: SpritePack_Master_Highest_183
+  - first:
+      213: 21300368
+    second: SpritePack_Master_Highest_184
+  - first:
+      213: 21300370
+    second: SpritePack_Master_Highest_185
+  - first:
+      213: 21300372
+    second: SpritePack_Master_Highest_186
+  - first:
+      213: 21300374
+    second: SpritePack_Master_Highest_187
+  - first:
+      213: 21300376
+    second: SpritePack_Master_Highest_188
+  - first:
+      213: 21300378
+    second: SpritePack_Master_Highest_189
+  - first:
+      213: 21300380
+    second: SpritePack_Master_Highest_190
+  - first:
+      213: 21300382
+    second: SpritePack_Master_Highest_191
+  - first:
+      213: 21300384
+    second: SpritePack_Master_Highest_192
+  - first:
+      213: 21300386
+    second: SpritePack_Master_Highest_193
+  - first:
+      213: 21300388
+    second: SpritePack_Master_Highest_194
+  - first:
+      213: 21300390
+    second: SpritePack_Master_Highest_195
+  - first:
+      213: 21300392
+    second: SpritePack_Master_Highest_196
+  - first:
+      213: 21300394
+    second: SpritePack_Master_Highest_197
+  - first:
+      213: 21300396
+    second: SpritePack_Master_Highest_199
+  - first:
+      213: 21300398
+    second: SpritePack_Master_Highest_200
+  - first:
+      213: 21300400
+    second: SpritePack_Master_Highest_201
+  - first:
+      213: 21300402
+    second: SpritePack_Master_Highest_202
+  - first:
+      213: 21300404
+    second: SpritePack_Master_Highest_203
+  - first:
+      213: 21300406
+    second: SpritePack_Master_Highest_204
+  - first:
+      213: 21300408
+    second: SpritePack_Master_Highest_205
+  - first:
+      213: 21300410
+    second: SpritePack_Master_Highest_206
+  - first:
+      213: 21300412
+    second: SpritePack_Master_Highest_207
+  - first:
+      213: 21300414
+    second: SpritePack_Master_Highest_208
+  - first:
+      213: 21300416
+    second: SpritePack_Master_Highest_209
+  - first:
+      213: 21300418
+    second: SpritePack_Master_Highest_210
+  - first:
+      213: 21300420
+    second: SpritePack_Master_Highest_211
+  - first:
+      213: 21300422
+    second: SpritePack_Master_Highest_212
+  - first:
+      213: 21300424
+    second: SpritePack_Master_Highest_213
+  - first:
+      213: 21300426
+    second: SpritePack_Master_Highest_214
+  - first:
+      213: 21300428
+    second: SpritePack_Master_Highest_215
+  - first:
+      213: 21300430
+    second: SpritePack_Master_Highest_216
+  - first:
+      213: 21300432
+    second: SpritePack_Master_Highest_217
+  - first:
+      213: 21300434
+    second: SpritePack_Master_Highest_218
+  - first:
+      213: 21300436
+    second: SpritePack_Master_Highest_219
+  - first:
+      213: 21300438
+    second: SpritePack_Master_Highest_220
+  - first:
+      213: 21300440
+    second: SpritePack_Master_Highest_221
+  - first:
+      213: 21300442
+    second: SpritePack_Master_Highest_222
+  - first:
+      213: 21300444
+    second: SpritePack_Master_Highest_223
+  - first:
+      213: 21300446
+    second: SpritePack_Master_Highest_224
+  - first:
+      213: 21300448
+    second: SpritePack_Master_Highest_225
+  - first:
+      213: 21300450
+    second: SpritePack_Master_Highest_226
+  - first:
+      213: 21300452
+    second: SpritePack_Master_Highest_227
+  - first:
+      213: 21300454
+    second: SpritePack_Master_Highest_228
+  - first:
+      213: 21300456
+    second: SpritePack_Master_Highest_229
+  - first:
+      213: 21300458
+    second: SpritePack_Master_Highest_230
+  - first:
+      213: 21300460
+    second: SpritePack_Master_Highest_231
+  - first:
+      213: 21300462
+    second: SpritePack_Master_Highest_232
+  - first:
+      213: 21300464
+    second: SpritePack_Master_Highest_233
+  - first:
+      213: 21300466
+    second: SpritePack_Master_Highest_234
+  - first:
+      213: 21300468
+    second: SpritePack_Master_Highest_235
+  - first:
+      213: 21300470
+    second: SpritePack_Master_Highest_236
+  - first:
+      213: 21300472
+    second: SpritePack_Master_Highest_237
+  - first:
+      213: 21300474
+    second: SpritePack_Master_Highest_238
+  - first:
+      213: 21300476
+    second: SpritePack_Master_Highest_239
+  - first:
+      213: 21300478
+    second: SpritePack_Master_Highest_240
+  - first:
+      213: 21300480
+    second: SpritePack_Master_Highest_241
+  - first:
+      213: 21300482
+    second: SpritePack_Master_Highest_242
+  - first:
+      213: 21300484
+    second: SpritePack_Master_Highest_243
+  - first:
+      213: 21300486
+    second: SpritePack_Master_Highest_244
+  - first:
+      213: 21300488
+    second: SpritePack_Master_Highest_245
+  - first:
+      213: 21300490
+    second: SpritePack_Master_Highest_246
+  - first:
+      213: 21300492
+    second: SpritePack_Master_Highest_247
+  - first:
+      213: 21300494
+    second: SpritePack_Master_Highest_248
+  - first:
+      213: 21300496
+    second: SpritePack_Master_Highest_249
+  - first:
+      213: 21300498
+    second: SpritePack_Master_Highest_250
+  - first:
+      213: 21300500
+    second: SpritePack_Master_Highest_251
+  - first:
+      213: 21300502
+    second: SpritePack_Master_Highest_252
+  - first:
+      213: 21300504
+    second: SpritePack_Master_Highest_253
+  - first:
+      213: 21300506
+    second: SpritePack_Master_Highest_254
+  - first:
+      213: 21300508
+    second: SpritePack_Master_Highest_255
+  - first:
+      213: 21300510
+    second: SpritePack_Master_Highest_256
+  - first:
+      213: 21300512
+    second: SpritePack_Master_Highest_257
+  - first:
+      213: 21300514
+    second: SpritePack_Master_Highest_258
+  - first:
+      213: 21300516
+    second: SpritePack_Master_Highest_259
+  - first:
+      213: 21300518
+    second: SpritePack_Master_Highest_260
+  - first:
+      213: 21300520
+    second: SpritePack_Master_Highest_261
+  - first:
+      213: 21300522
+    second: SpritePack_Master_Highest_262
+  - first:
+      213: 21300524
+    second: SpritePack_Master_Highest_263
+  - first:
+      213: 21300526
+    second: SpritePack_Master_Highest_264
+  - first:
+      213: 21300528
+    second: SpritePack_Master_Highest_265
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_0
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 6228
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b23d5435de6064eb2cf9f365378259
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_1
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 6226
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e9f20a6dee96468c315d5cb25e0d9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_2
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 6220
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdaca645109f20499d60c97891d8b17
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_3
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 6219
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1a1e2c9ce76a4ab42b880dc67bf95
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_4
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 6206
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86cb951351a53448b18f1ca613cbcea
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_5
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 6204
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c830159f19e558419c417b9c40b0415
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_6
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 6221
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a1fddbadc08540ada8b31add374fb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_7
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 6196
+        width: 212
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c36ab35fc81949945d67280cfecaa
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_8
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 6216
+        width: 212
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9e9a40ea8e4f041b906f9913a0cace
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_9
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 6232
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c7ed08d9682f43b6ff030e29cf3a8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_10
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 6208
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef75e538705cc479b41990f7046e36
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_11
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 6215
+        width: 211
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d55668b39e59a4dbfe9b6858f8170e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_12
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 6240
+        width: 211
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0309a68a3fd014ea58a0a810ce3311
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_13
+      rect:
+        serializedVersion: 2
+        x: 5856
+        y: 6260
+        width: 211
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51768601cd6ac234694da7a31bfb52b6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_14
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 6213
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6df76b60ebb3438e882ac1272e2fd
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_15
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 5845
+        width: 193
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a03d642cfb08747bc8e4a8ca504383
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_16
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 5812
+        width: 174
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e76cba6e4e38b41a01694f123d44e2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_17
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 5839
+        width: 193
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6dc4e84e1849f4183c4ed00bfb34e9
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_18
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 5817
+        width: 174
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2357b4fb6b5d439a1bcf5b79cb429
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_19
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 5818
+        width: 174
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b43d86976e0b04f8d5f4b5ac4fcebb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_20
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 5817
+        width: 174
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f6381b88b96054d9c00712a9cffb3f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_21
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 5780
+        width: 157
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5732ed4ca9692f448581b17751c788c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_22
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 5738
+        width: 188
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd792336fa3baae40981d3fc06fbda7b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_23
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 5426
+        width: 207
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab49a4526478336419bd0198436765d5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_24
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 5358
+        width: 204
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb495baacb605b43b5a67a8c2b445d3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_25
+      rect:
+        serializedVersion: 2
+        x: 5747
+        y: 5995
+        width: 117
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f8f81e99b4274fa127eb497d9a845
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_26
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 5940
+        width: 117
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f4d2bf6776a664b95c913cd4919f1b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_27
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 5924
+        width: 232
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d75995c33ada4894e062e846716aa
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_28
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 5812
+        width: 110
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b15e49d3580284c823a40149338ef2
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_29
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 5809
+        width: 108
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29f7b5bbbcacb4e8cb802dca40c573
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_30
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 5743
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1385b64cb323534dab9a5f2ccdec770
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_31
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 5734
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a1c5c3844ffa4abd815451ce740e6
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_32
+      rect:
+        serializedVersion: 2
+        x: 5223
+        y: 5739
+        width: 165
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ef1b6e6018ea54f9a2d11898b40921
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_33
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 5687
+        width: 196
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378b0c7f52f5ed44a702c0584982df5
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_34
+      rect:
+        serializedVersion: 2
+        x: 5767
+        y: 5728
+        width: 117
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70b631ed7dfdf4fb179d6e1c7ade28
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_35
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 5724
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d82fae4b0fbb24c8339804917e8989
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_36
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 5600
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1aa6e302d0e354a84810d69437ad6c
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_37
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 5516
+        width: 193
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f42eed99db6d4eb6372f61e78bb30
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_38
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 5523
+        width: 174
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b45f6e017b80c4a965faa670d7b4f8
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_39
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 5516
+        width: 196
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665ddecfdc7dcd46844f4f11713e799
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_40
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 5523
+        width: 174
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca43ba922a18a5a42ad0a81043ae4512
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_41
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 5510
+        width: 193
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4b23cfef29fa4f9aa3159945264b6
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_42
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 5492
+        width: 193
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258cfc40e2495240b2d6313f2d0d2c4
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_43
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 5476
+        width: 157
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09699f6d8a7bc14981135501e813f2f
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_44
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 5456
+        width: 158
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79eb99d3b43aed449dce4dcd33a18b9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_45
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 5476
+        width: 108
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106f4ca374e6384e91f4720a57ecfc4
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_46
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 5450
+        width: 188
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d32e4d40d1c1da4f9ba08925ec21ed0
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_47
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 5466
+        width: 193
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50caa826a61e27a48ac21277954264a2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_48
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 5441
+        width: 186
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c4d4ee743f174786517d826499de9
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_49
+      rect:
+        serializedVersion: 2
+        x: 5228
+        y: 5438
+        width: 164
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5333b5d1ea4f459ee320c7571bf85
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_50
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 5384
+        width: 193
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b6bc0ba24d9946b65bb9e5cf5b979
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_51
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 5506
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd66d1225d76e342bc53eb71bab602b
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_52
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 5498
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698793312ea202c42bdb2d2086cbf3b6
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_53
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 5230
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aecb6ddc892954c9aaeb11615b9b7f
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_54
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 5230
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d22f2a7cc13724ca452a487f7a32ae
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_55
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 5054
+        width: 341
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008ea1ff09da06418563f16b0e07754
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_56
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 5028
+        width: 323
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cfdd235d8a23d42890b328184cc7c5
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_57
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 5052
+        width: 324
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf94f272f6f0e2418a88dc4f0a0c1a6
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_58
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 4964
+        width: 311
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e9d3dc8677164f89c31cedf5a1431
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_59
+      rect:
+        serializedVersion: 2
+        x: 5892
+        y: 5190
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e972e1787add4c94dad7b6f63b74940f
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_60
+      rect:
+        serializedVersion: 2
+        x: 6206
+        y: 5273
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079bedf4b14b854d902154943e91043
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_61
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 5032
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14cde83f3e13348a4a55e2c532e8a6
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_62
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 5032
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec48fe7bcbd0e8f48be418908738770d
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_63
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 5038
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18696ed832922534a98e64926a5e557d
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_64
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 5033
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27a358a45c1e043994104d941785d1
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_65
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 4950
+        width: 324
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977080637d8547b4eb5e9f6bc473a68c
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_66
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 4926
+        width: 341
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a27bf0fb89229429ce516bc11cad93
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_67
+      rect:
+        serializedVersion: 2
+        x: 5116
+        y: 4905
+        width: 343
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581eeca3058a8e04994d10384caf3a48
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_68
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 4995
+        width: 232
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864d9bb89f392c046a2802726e30727b
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_69
+      rect:
+        serializedVersion: 2
+        x: 6067
+        y: 4873
+        width: 124
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449b38343dc8a84eaf7b0200c92fdbc
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_70
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 4979
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eba3cff97852e428c3702bbeb17319
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_71
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 4750
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5320cd0703a9f4fb354317df8081f9
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_72
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 4756
+        width: 139
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2642b49ca1a041894e1c7c1b8e0fb
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_73
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 4745
+        width: 139
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f63b8c61b133f4d9a6ba24c38ed678
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_74
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 4732
+        width: 139
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065d41a31ef27143bd578d57edfd666
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_75
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 4733
+        width: 139
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d59afb9e1b0d4690964155de50aea
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_76
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 4715
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2ca82e552cdb4bb9e2cdcff32da90
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_77
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 4732
+        width: 139
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e9a03ccb400564cbd8bc7f9848deea
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_78
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 4727
+        width: 139
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b4be7a37b8c24cabc405e261a3bae
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_79
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 4750
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f53322b797a540b79859d15cf683d
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_80
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 4604
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610c2faa2c1c9746b991909169aed6b
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_81
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 4571
+        width: 182
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808213c1f0ae5444c8b82cd2fc063905
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_82
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 4560
+        width: 182
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8241c787e7f94da4e1419373137b5
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_83
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 4574
+        width: 183
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60662d203bae06469f05f93fabbb3b1
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_84
+      rect:
+        serializedVersion: 2
+        x: 4920
+        y: 4579
+        width: 203
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f2588c207b80449ec0df9fe727045
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_85
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 4616
+        width: 202
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989857c348c315c408ca04f8e5d482ed
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_86
+      rect:
+        serializedVersion: 2
+        x: 5523
+        y: 4624
+        width: 202
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bc7ab6fc71ac541a4f644129b5b568
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_87
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 4737
+        width: 119
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ed1d6cacab2154e95645d0f8e78708
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_88
+      rect:
+        serializedVersion: 2
+        x: 6263
+        y: 4632
+        width: 172
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b1af0910800564b94d3f84beee0a77
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_89
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 4558
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0916d3f4126764aa1b368fe5661e15
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_90
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 4559
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00756ff665c94e14cb98f293ceddc769
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_91
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 4558
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a1b21c27097042baa2ced43c405bf
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_92
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 4571
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ddaa680c028794ebfcd712256b42ab
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_93
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 4576
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7271302a17d8644ba6607e1cea7ca67
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_94
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 4595
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c06c837efcc74da2e19edaaca754e
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_95
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 4400
+        width: 175
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f54c5b2038b024dbb13629b36c5c2b
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_96
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 4366
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59690e4fa2919d48bc1476d11bbdfca
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_97
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 4403
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b0498609e1784aaad7c5eefcbaffb
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_98
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 4180
+        width: 210
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40472fa9aa76fa4ca06291e6e915feb
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_99
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 4231
+        width: 172
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d96dd2277ff545a77a4aa9f01530e
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_100
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 4240
+        width: 172
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41bd8bc5e389a14bae417625f109666
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_101
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 4250
+        width: 181
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef2614c9d045b48b74bfde24199143
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_102
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 4305
+        width: 176
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547b882e9c2f8b4a9c782ed521365f8
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_103
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 4026
+        width: 207
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc03cbad3b87e949864cb55801203d6
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_104
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 4242
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c44ed3f4799dab409f90a9f8d367351
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_105
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 3843
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9997cb286f7c46246a8c4a74222fbb7b
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_106
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3834
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba2500bf7b53c440acb34a6e223d707
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_107
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3837
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48995df52896948bd5a48adbe387c5
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_108
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3829
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d6e60e84e3fe94aa7a5c75bc6cd98a
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_109
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 3827
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2ef90d4d2b144aab531ae27e684e4
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_110
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3828
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc695c060fb7f4d9f998d38ddf703a
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_111
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 3772
+        width: 172
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a931b0a7624ec0439a36aa6abdab9a2
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_112
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 3811
+        width: 207
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8942839d7545c6c4d8953a2d661683d9
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_113
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 3860
+        width: 172
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24794cfa41c83474190fd1715cd2e625
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_114
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 3851
+        width: 207
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2130a8e62940d0b4abb0f09476f2bd76
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_115
+      rect:
+        serializedVersion: 2
+        x: 5650
+        y: 3920
+        width: 172
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37953374e628404eb8518a62dc6ca53
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_116
+      rect:
+        serializedVersion: 2
+        x: 6004
+        y: 3677
+        width: 210
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c1f173e46ff04394fdb0803cfecc2
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_117
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 3296
+        width: 298
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e55e87300a34a4092a1bbe7564b75d
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_118
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 3335
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebceb063572c0749814de07736dd6b2
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_119
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 3360
+        width: 298
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d589cdb981b042a642b60223df1d0
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_120
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3476
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755bc4e0b6c75ea4cb7b556546c3ecc4
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_121
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3490
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ee3e5bf667d345814f0b1da1a5a05
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_122
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3505
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e66e76b58faca04c8d92ac43f82195e
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_123
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 3271
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31afbaf823e81648a0d5be813d66628
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_124
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3118
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd82b3dd98213d47a5632943e773952
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_125
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3119
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54063ed846c7f12449eacbbd57f5ecac
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_126
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 3150
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd4b3ce54f83f4ebbf20b1e1856b91
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_127
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 3116
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b47e5517dd40498b6e4becca1e463
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_128
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 3289
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ef63a2db0bdd4d9f577762c20cccc
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_129
+      rect:
+        serializedVersion: 2
+        x: 4922
+        y: 3174
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac11f7ca866714087b9f3d767c767c
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_130
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2943
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d070c15b59310849b8732d8e02ba8a7
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_131
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2906
+        width: 298
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d214d6f4900f214b95e347309603ae8
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_132
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2969
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852745daf0cc662428c0f0b60d75863a
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_133
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 2833
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e5d4c4e4034b40b71c496ce0081a0
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_134
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 2826
+        width: 295
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22aaf6a0b4843418c213a648b12008
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_135
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2769
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22003361ddb4d9e418035dd5d3615d46
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_136
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 2847
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b94dba418a17143af1d25b28a5c2c3
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_137
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 2908
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3e9b9265abdc42851c4a0dd7162b8
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_138
+      rect:
+        serializedVersion: 2
+        x: 4716
+        y: 2896
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a0415e352edfc4c854d590eafbf6ce
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_139
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 2884
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cdeb775fac4824aa79cf583b588754
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_140
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2536
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466c7955b36e8f6429faca683fe40e2d
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_141
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2571
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d503597b9c999b14a8596d688e3cd389
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_142
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2585
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee1ffa4916a7a45a56d0d9b3e5d69e
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_143
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2747
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5fe717f6867848850d570146db335
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_144
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2594
+        width: 104
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff46e4acbb9764bbcc18dacf893605
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_145
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 2600
+        width: 104
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee42a8a3f71b246854e01dce8caa48
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_146
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 2625
+        width: 104
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1b4406e583024995e366a1cd0540a
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_147
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 2612
+        width: 149
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59285b2ea8bed3540bb19ab30f5dfafe
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_148
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 2618
+        width: 149
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d0c19f476b4a840aa5bf36ae8b4e45
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_149
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2497
+        width: 149
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8108fe51e866d478a259906446dd98
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_150
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2195
+        width: 298
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373eb55a266ac494b81740cf1c47639b
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_151
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 2468
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c21de6aa0046429b37afac3efdf14
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_152
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2339
+        width: 181
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421036c2749c61a4bacd6f44d186a336
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_153
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2322
+        width: 181
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8d51d2106a5f4b9501c46ddaa02ad
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_154
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 2327
+        width: 181
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85720c227843b5b48a728e3912b62fdc
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_155
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 2291
+        width: 185
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434a425571b38b499550fd0f051bceb
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_156
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 2291
+        width: 184
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34365f476726f5a45ac2bd6e757fbebf
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_157
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 2267
+        width: 184
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce28addc04a032a48961c12f8a833b4f
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_158
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 2123
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afbfb3bf117b746b862e5c1eb88565
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_159
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 1961
+        width: 149
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d94159fe57884c92d81be0292a4cc
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_160
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 1941
+        width: 180
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574720794177d14983ac270efd2df71
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_161
+      rect:
+        serializedVersion: 2
+        x: 5193
+        y: 2154
+        width: 175
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd892bba09bf3e4dabcc6f96bceedb8
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_162
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 1871
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc2f73e76407348a140c534f04e700
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_163
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1907
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204654adfea98db4d9713edaa48df198
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_164
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1918
+        width: 180
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ddc574c1818d408fb6e9ba66141d2
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_165
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1924
+        width: 164
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d56aeece1cb6cb46a879a3127debb5a
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_166
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 1925
+        width: 173
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8c5c090fe53014aaaf12989e3e4455
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_167
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 1924
+        width: 153
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c0a839d05763e4fbe2157f7aec7a36
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_168
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1876
+        width: 180
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14642c34e7b866d4da8a476c371bb4b8
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_169
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1713
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86cb050c8c9aa44d8555ba2baec3f10
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_170
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 1696
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c68259a2067a0c4099375f367758385
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_171
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1679
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210ffec72098264c86ac801e17eefa4
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_172
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1673
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c32c0591a7f6842871037c66d869bb
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_173
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1685
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e322fe83bd5bb664482a9a2115fa5ebc
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_174
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 1697
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d5e6332c46a54cb6dc7737c7bedd5
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_175
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 1685
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9bf0d8be493964090be15d3cc66597
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_176
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 1702
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe23838ef012247a7fee3015a66607
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_177
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 1715
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2662c3e0940b46900b8780c4d52c7
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_178
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 1715
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab091895ced1246b6cbeb315e923a8
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_179
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 1690
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024870142c651c41817eb51c4e84836
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_180
+      rect:
+        serializedVersion: 2
+        x: 5223
+        y: 1721
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34587536ec61a4abe88ed7e1d8987f
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_181
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 5344
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff4f9b633be2d4fb445425d3a2bfdd
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_182
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 5223
+        width: 184
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d6bd725e116d4984cec65d62d80bf
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_183
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 5263
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135b67131a2b0b4d82ecad0c37a7224
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_184
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 5241
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576478f581a652478cb1e8ccc39b0b3
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_185
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 5015
+        width: 143
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f07ae6c21c1bd4998c0878be99760a
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_186
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 4911
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a757b469022a4099aec284fb7187c
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_187
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 4902
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e525dd1f384e1f408e9487a6a2e9b5d
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_188
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 4899
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8afef915bcfe0e4a8ca04caa1db580b
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_189
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 4932
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25648bbabb57c4eb59d04196fb6261
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_190
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 4928
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db293e4e7cbdca4996bff147ac88d9c
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_191
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 4923
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793a37d6332c5f428e267f20f4a717a
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_192
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 4936
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca454fa23e1fd46926006dbb5ef668
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_193
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 4917
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f212e99625304fa38c61f97480e9b
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_194
+      rect:
+        serializedVersion: 2
+        x: 6504
+        y: 4510
+        width: 212
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5959324c79ac498408240018b6739cba
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_195
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 4372
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a819ff292b2c6194d9851923c7dbbe2a
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_196
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 4363
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7f9f618a995a64c8c502994a30807d
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_197
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 4375
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c21c67afec201b4b8a1dc32bb4f5d7b
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_199
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 4429
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3dc59c5ac72d44a8dd233be3480b08
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_200
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 4386
+        width: 136
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0720c2e23f47846aaaa625e0a2c049
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_201
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 4340
+        width: 149
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207b21a6db2f1744a4e4e27343558fe
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_202
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 4224
+        width: 61
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf35d13b18a6a694d909983fd3b134ab
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_203
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 4356
+        width: 136
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d0100a068e2046ad96f00156db248
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_204
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 4340
+        width: 138
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01912820fe3038946817163c4f9db3ae
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_205
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 4176
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5322fda4f5fec2499463373b6c610a8
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_206
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 4188
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55171a3c206397f4b9c452805d501c45
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_207
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 4189
+        width: 17
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb39cfd8a6e58a489b3c1c98836e4c2
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_208
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 4200
+        width: 17
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bcf3f34e01b524283ec97751e96896
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_209
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 4194
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c18b131a1591fa4f843926bca46d202
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_210
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 4193
+        width: 17
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef346ec5026cdb4ea30b81848fbd916
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_211
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 4190
+        width: 17
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44939dd5f83830548af085bcb618d50b
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_212
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 4190
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2435b47ece30d41a2dc5c826a4fadd
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_213
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 4172
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224555d11c01ce40886048ee424f8c5
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_214
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 4170
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6673bf2b0f7f43b794c057d787dba
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_215
+      rect:
+        serializedVersion: 2
+        x: 6356
+        y: 3890
+        width: 37
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d684385ea8fbcf4b817f7ad682316ad
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_216
+      rect:
+        serializedVersion: 2
+        x: 6489
+        y: 3972
+        width: 37
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0734b6b45ef04ba9710c7fc401630
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_217
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 3629
+        width: 112
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca91552a32b3a84ea0b71565275c685
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_218
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 3586
+        width: 121
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f040ae375da246b47e45ec2dfd834
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_219
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 3590
+        width: 125
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b49d9da56fc8847b964365ae82369b
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_220
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 3588
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edd1c1bd04361b4d9dfa68a0c8a5ba5
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_221
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 3535
+        width: 170
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ee58cb9358b54cb665072cb916b17
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_222
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 3631
+        width: 37
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3d4893b7b5474d81c39f35b27ea83
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_223
+      rect:
+        serializedVersion: 2
+        x: 6502
+        y: 3702
+        width: 36
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a562071f098424886d412f93500f63
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_224
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 3629
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe512b64b0c28c4faa48a0a42a2d0f6
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_225
+      rect:
+        serializedVersion: 2
+        x: 5065
+        y: 3624
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e398a59188ae88448c3dd76f8127992
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_226
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 3636
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c8de70fd13a3c41910f7f7165e6e31
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_227
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3446
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ea9142b8447db4598ef0a0c6158b50
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_228
+      rect:
+        serializedVersion: 2
+        x: 5326
+        y: 3348
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e82d6594751c744d92beebe3c3bebe6
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_229
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 3322
+        width: 228
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ff614dc7f5b040a64fa2846db534e
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_230
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 3382
+        width: 133
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68548d86abd80940a4f8dc3450adb34
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_231
+      rect:
+        serializedVersion: 2
+        x: 6231
+        y: 3404
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38407d23ef40eb44cabebfa1551d8a3d
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_232
+      rect:
+        serializedVersion: 2
+        x: 6518
+        y: 3438
+        width: 36
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed7eab04f86654a931d88b5490e8c2
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_233
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 3049
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd0608ae6f2434f89adc1e67fb7d75
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_234
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 3034
+        width: 220
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e0c83f9a55cb499fd66c274bfd798
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_235
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 3048
+        width: 220
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed801ea247161441b11f8917966316b
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_236
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 2896
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483e19808f57a84987991fb979f476d
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_237
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2851
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66dcfb58847cac49acc7c65e37c3462
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_238
+      rect:
+        serializedVersion: 2
+        x: 5741
+        y: 2858
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec844b7275dba448edc7cbf88fc224
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_239
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 2639
+        width: 212
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8dbd3b99d5a2346bded1afc6d59434
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_240
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 2729
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f398a0da071d2bb458035f46765fc8cd
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_241
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 2725
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40480fcb3f3040546a8743f317904aea
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_242
+      rect:
+        serializedVersion: 2
+        x: 5924
+        y: 2726
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7439c410aa5d54293defd8215e9014
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_243
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 2604
+        width: 212
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42c26800e949041abc83f052089806
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_244
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 2715
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69ad1fcea9e484da369464543f34f2
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_245
+      rect:
+        serializedVersion: 2
+        x: 5573
+        y: 2412
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45481ce8986467d44a9dada188a4a00b
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_246
+      rect:
+        serializedVersion: 2
+        x: 5902
+        y: 2389
+        width: 163
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e83c7ed85667774fb193a08ba948634
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_247
+      rect:
+        serializedVersion: 2
+        x: 6176
+        y: 2372
+        width: 184
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd387c02f3e5ef40b03ce7031f1d468
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_248
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 2186
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c332fa09d32a504daa307b268aefbe3
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_249
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 2198
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad69f187b02c04c4287b2fab8f003df9
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_250
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 2197
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd73be224f067f4a8d29f542f98458e
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_251
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 2197
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1449229ed896130468fa36ab7ca1c861
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_252
+      rect:
+        serializedVersion: 2
+        x: 6391
+        y: 2183
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb01cd1320c6f74288569294643217d
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_253
+      rect:
+        serializedVersion: 2
+        x: 6548
+        y: 2189
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e1b89fc96830488aaba7c787fd673
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_254
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1729
+        width: 280
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cc19bb9b281234d90bb654f5b18eea
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_255
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1724
+        width: 257
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29472cb02b1314448ab607c0c5588dbc
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_256
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 1708
+        width: 257
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94d52b2a18d604aa8d12fab411595a
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_257
+      rect:
+        serializedVersion: 2
+        x: 5624
+        y: 2013
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc355539cbbda4a8bfc1af2ce621e5
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_258
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 2000
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc67876f69fa3545900496a5385644a
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_259
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 1999
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cdf2bab2f27b640a69ddf3ddad1055
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_260
+      rect:
+        serializedVersion: 2
+        x: 6181
+        y: 1968
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216391b3eae97df44a98ac252d8a425e
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_261
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 1710
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b6e784d3adc848a1587b3d60300ba
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_262
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 1686
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c802e5e7aae34af44af1c67be6003b4d
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_263
+      rect:
+        serializedVersion: 2
+        x: 5977
+        y: 1698
+        width: 92
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a7648b6919ee44eb48b2541fda067b
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_264
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 1695
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ad4390a96c17459baed1f7aabc77a
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Highest_265
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 1696
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df340d3430c265419124163daea70db
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

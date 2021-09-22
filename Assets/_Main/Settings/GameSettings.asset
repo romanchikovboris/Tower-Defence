@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f74487f18545c18f27fb1ccd9d15a0, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  towerCollection: {fileID: 11400000, guid: b6da4ba6a7bd5a040895760d3a8a9b89, type: 2}
+  enemyWaveSettings: {fileID: 11400000, guid: fa0e2fe0bcd360b41a0bb96769e0c9cb, type: 2}
