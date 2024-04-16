@@ -3,6 +3,9 @@
 This is simple tower defense game made in C# and Unity
 Unity version: 2023.2.11f1
 
+![Uploading Gameplay.gif…]()
+
+
 ## Description
 This is a simple 2d tower defense game made in Unity.
 Game contains 2 types of enemies and 2 types of towers and 1 infinity wave. 
