@@ -1,29 +1,26 @@
-# README #
+# Tower Defense Game
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is simple tower defense game made in C# and Unity
+Unity version: 2023.2.11f1
 
-### What is this repository for? ###
+## Description
+This is a simple 2d tower defense game made in Unity.
+Game contains 2 types of enemies and 2 types of towers and 1 infinity wave. 
+When player push the "Spawn" button it will create random tower and place it on the map.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Start point
+* LevelInstaller.cs - Main entry point for the game
+* GameSettings.cs - Contains all game settings
 
-### How do I get set up? ###
+## Used plugins
+* Zenject
+* UniRx
+* DoTween
+* Odin Inspector
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Not used plugins :)
+* UniTask (Test task has condition to not use UniTask)
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
