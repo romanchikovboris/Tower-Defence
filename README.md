@@ -3,7 +3,7 @@
 This is simple tower defense game made in C# and Unity
 Unity version: 2023.2.11f1
 
-![Gameplay](https://github.com/romanchikovboris/Tower-Defence/ReadmeAssets/Gameplay.gif)
+![Gameplay](https://github.com/romanchikovboris/Tower-Defence/blob/main/ReadmeAssets/Gameplay.gif)
 
 
 ## Description
