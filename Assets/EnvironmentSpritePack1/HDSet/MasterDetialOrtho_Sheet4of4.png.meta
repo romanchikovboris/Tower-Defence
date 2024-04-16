@@ -249,7 +249,7 @@ TextureImporter:
       213: 21300162
     second: MasterDetialOrtho_Sheet4of4_81
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -266,9 +266,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -277,12 +280,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -300,10 +303,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -315,6 +323,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -327,6 +336,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -2064,9 +2100,91 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      MasterDetialOrtho_Sheet4of4_0: 21300000
+      MasterDetialOrtho_Sheet4of4_1: 21300002
+      MasterDetialOrtho_Sheet4of4_10: 21300020
+      MasterDetialOrtho_Sheet4of4_11: 21300022
+      MasterDetialOrtho_Sheet4of4_12: 21300024
+      MasterDetialOrtho_Sheet4of4_13: 21300026
+      MasterDetialOrtho_Sheet4of4_14: 21300028
+      MasterDetialOrtho_Sheet4of4_15: 21300030
+      MasterDetialOrtho_Sheet4of4_16: 21300032
+      MasterDetialOrtho_Sheet4of4_17: 21300034
+      MasterDetialOrtho_Sheet4of4_18: 21300036
+      MasterDetialOrtho_Sheet4of4_19: 21300038
+      MasterDetialOrtho_Sheet4of4_2: 21300004
+      MasterDetialOrtho_Sheet4of4_20: 21300040
+      MasterDetialOrtho_Sheet4of4_21: 21300042
+      MasterDetialOrtho_Sheet4of4_22: 21300044
+      MasterDetialOrtho_Sheet4of4_23: 21300046
+      MasterDetialOrtho_Sheet4of4_24: 21300048
+      MasterDetialOrtho_Sheet4of4_25: 21300050
+      MasterDetialOrtho_Sheet4of4_26: 21300052
+      MasterDetialOrtho_Sheet4of4_27: 21300054
+      MasterDetialOrtho_Sheet4of4_28: 21300056
+      MasterDetialOrtho_Sheet4of4_29: 21300058
+      MasterDetialOrtho_Sheet4of4_3: 21300006
+      MasterDetialOrtho_Sheet4of4_30: 21300060
+      MasterDetialOrtho_Sheet4of4_31: 21300062
+      MasterDetialOrtho_Sheet4of4_32: 21300064
+      MasterDetialOrtho_Sheet4of4_33: 21300066
+      MasterDetialOrtho_Sheet4of4_34: 21300068
+      MasterDetialOrtho_Sheet4of4_35: 21300070
+      MasterDetialOrtho_Sheet4of4_36: 21300072
+      MasterDetialOrtho_Sheet4of4_37: 21300074
+      MasterDetialOrtho_Sheet4of4_38: 21300076
+      MasterDetialOrtho_Sheet4of4_39: 21300078
+      MasterDetialOrtho_Sheet4of4_4: 21300008
+      MasterDetialOrtho_Sheet4of4_40: 21300080
+      MasterDetialOrtho_Sheet4of4_41: 21300082
+      MasterDetialOrtho_Sheet4of4_42: 21300084
+      MasterDetialOrtho_Sheet4of4_43: 21300086
+      MasterDetialOrtho_Sheet4of4_44: 21300088
+      MasterDetialOrtho_Sheet4of4_45: 21300090
+      MasterDetialOrtho_Sheet4of4_46: 21300092
+      MasterDetialOrtho_Sheet4of4_47: 21300094
+      MasterDetialOrtho_Sheet4of4_48: 21300096
+      MasterDetialOrtho_Sheet4of4_49: 21300098
+      MasterDetialOrtho_Sheet4of4_5: 21300010
+      MasterDetialOrtho_Sheet4of4_50: 21300100
+      MasterDetialOrtho_Sheet4of4_51: 21300102
+      MasterDetialOrtho_Sheet4of4_52: 21300104
+      MasterDetialOrtho_Sheet4of4_53: 21300106
+      MasterDetialOrtho_Sheet4of4_54: 21300108
+      MasterDetialOrtho_Sheet4of4_55: 21300110
+      MasterDetialOrtho_Sheet4of4_56: 21300112
+      MasterDetialOrtho_Sheet4of4_57: 21300114
+      MasterDetialOrtho_Sheet4of4_58: 21300116
+      MasterDetialOrtho_Sheet4of4_59: 21300118
+      MasterDetialOrtho_Sheet4of4_6: 21300012
+      MasterDetialOrtho_Sheet4of4_60: 21300120
+      MasterDetialOrtho_Sheet4of4_61: 21300122
+      MasterDetialOrtho_Sheet4of4_62: 21300124
+      MasterDetialOrtho_Sheet4of4_63: 21300126
+      MasterDetialOrtho_Sheet4of4_64: 21300128
+      MasterDetialOrtho_Sheet4of4_65: 21300130
+      MasterDetialOrtho_Sheet4of4_66: 21300132
+      MasterDetialOrtho_Sheet4of4_67: 21300134
+      MasterDetialOrtho_Sheet4of4_68: 21300136
+      MasterDetialOrtho_Sheet4of4_69: 21300138
+      MasterDetialOrtho_Sheet4of4_7: 21300014
+      MasterDetialOrtho_Sheet4of4_70: 21300140
+      MasterDetialOrtho_Sheet4of4_71: 21300142
+      MasterDetialOrtho_Sheet4of4_72: 21300144
+      MasterDetialOrtho_Sheet4of4_73: 21300146
+      MasterDetialOrtho_Sheet4of4_74: 21300148
+      MasterDetialOrtho_Sheet4of4_75: 21300150
+      MasterDetialOrtho_Sheet4of4_76: 21300152
+      MasterDetialOrtho_Sheet4of4_77: 21300154
+      MasterDetialOrtho_Sheet4of4_78: 21300156
+      MasterDetialOrtho_Sheet4of4_79: 21300158
+      MasterDetialOrtho_Sheet4of4_8: 21300016
+      MasterDetialOrtho_Sheet4of4_80: 21300160
+      MasterDetialOrtho_Sheet4of4_81: 21300162
+      MasterDetialOrtho_Sheet4of4_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -549,7 +549,7 @@ TextureImporter:
       213: 21300362
     second: SpritePack_Master_SmartBlur_181
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -566,9 +566,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -577,12 +580,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -600,10 +603,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -615,6 +623,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -627,6 +636,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -4464,9 +4500,191 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      SpritePack_Master_SmartBlur_0: 21300000
+      SpritePack_Master_SmartBlur_1: 21300002
+      SpritePack_Master_SmartBlur_10: 21300020
+      SpritePack_Master_SmartBlur_100: 21300200
+      SpritePack_Master_SmartBlur_101: 21300202
+      SpritePack_Master_SmartBlur_102: 21300204
+      SpritePack_Master_SmartBlur_103: 21300206
+      SpritePack_Master_SmartBlur_104: 21300208
+      SpritePack_Master_SmartBlur_105: 21300210
+      SpritePack_Master_SmartBlur_106: 21300212
+      SpritePack_Master_SmartBlur_107: 21300214
+      SpritePack_Master_SmartBlur_108: 21300216
+      SpritePack_Master_SmartBlur_109: 21300218
+      SpritePack_Master_SmartBlur_11: 21300022
+      SpritePack_Master_SmartBlur_110: 21300220
+      SpritePack_Master_SmartBlur_111: 21300222
+      SpritePack_Master_SmartBlur_112: 21300224
+      SpritePack_Master_SmartBlur_113: 21300226
+      SpritePack_Master_SmartBlur_114: 21300228
+      SpritePack_Master_SmartBlur_115: 21300230
+      SpritePack_Master_SmartBlur_116: 21300232
+      SpritePack_Master_SmartBlur_117: 21300234
+      SpritePack_Master_SmartBlur_118: 21300236
+      SpritePack_Master_SmartBlur_119: 21300238
+      SpritePack_Master_SmartBlur_12: 21300024
+      SpritePack_Master_SmartBlur_120: 21300240
+      SpritePack_Master_SmartBlur_121: 21300242
+      SpritePack_Master_SmartBlur_122: 21300244
+      SpritePack_Master_SmartBlur_123: 21300246
+      SpritePack_Master_SmartBlur_124: 21300248
+      SpritePack_Master_SmartBlur_125: 21300250
+      SpritePack_Master_SmartBlur_126: 21300252
+      SpritePack_Master_SmartBlur_127: 21300254
+      SpritePack_Master_SmartBlur_128: 21300256
+      SpritePack_Master_SmartBlur_129: 21300258
+      SpritePack_Master_SmartBlur_13: 21300026
+      SpritePack_Master_SmartBlur_130: 21300260
+      SpritePack_Master_SmartBlur_131: 21300262
+      SpritePack_Master_SmartBlur_132: 21300264
+      SpritePack_Master_SmartBlur_133: 21300266
+      SpritePack_Master_SmartBlur_134: 21300268
+      SpritePack_Master_SmartBlur_135: 21300270
+      SpritePack_Master_SmartBlur_136: 21300272
+      SpritePack_Master_SmartBlur_137: 21300274
+      SpritePack_Master_SmartBlur_138: 21300276
+      SpritePack_Master_SmartBlur_139: 21300278
+      SpritePack_Master_SmartBlur_14: 21300028
+      SpritePack_Master_SmartBlur_140: 21300280
+      SpritePack_Master_SmartBlur_141: 21300282
+      SpritePack_Master_SmartBlur_142: 21300284
+      SpritePack_Master_SmartBlur_143: 21300286
+      SpritePack_Master_SmartBlur_144: 21300288
+      SpritePack_Master_SmartBlur_145: 21300290
+      SpritePack_Master_SmartBlur_146: 21300292
+      SpritePack_Master_SmartBlur_147: 21300294
+      SpritePack_Master_SmartBlur_148: 21300296
+      SpritePack_Master_SmartBlur_149: 21300298
+      SpritePack_Master_SmartBlur_15: 21300030
+      SpritePack_Master_SmartBlur_150: 21300300
+      SpritePack_Master_SmartBlur_151: 21300302
+      SpritePack_Master_SmartBlur_152: 21300304
+      SpritePack_Master_SmartBlur_153: 21300306
+      SpritePack_Master_SmartBlur_154: 21300308
+      SpritePack_Master_SmartBlur_155: 21300310
+      SpritePack_Master_SmartBlur_156: 21300312
+      SpritePack_Master_SmartBlur_157: 21300314
+      SpritePack_Master_SmartBlur_158: 21300316
+      SpritePack_Master_SmartBlur_159: 21300318
+      SpritePack_Master_SmartBlur_16: 21300032
+      SpritePack_Master_SmartBlur_160: 21300320
+      SpritePack_Master_SmartBlur_161: 21300322
+      SpritePack_Master_SmartBlur_162: 21300324
+      SpritePack_Master_SmartBlur_163: 21300326
+      SpritePack_Master_SmartBlur_164: 21300328
+      SpritePack_Master_SmartBlur_165: 21300330
+      SpritePack_Master_SmartBlur_166: 21300332
+      SpritePack_Master_SmartBlur_167: 21300334
+      SpritePack_Master_SmartBlur_168: 21300336
+      SpritePack_Master_SmartBlur_169: 21300338
+      SpritePack_Master_SmartBlur_17: 21300034
+      SpritePack_Master_SmartBlur_170: 21300340
+      SpritePack_Master_SmartBlur_171: 21300342
+      SpritePack_Master_SmartBlur_172: 21300344
+      SpritePack_Master_SmartBlur_173: 21300346
+      SpritePack_Master_SmartBlur_174: 21300348
+      SpritePack_Master_SmartBlur_175: 21300350
+      SpritePack_Master_SmartBlur_176: 21300352
+      SpritePack_Master_SmartBlur_177: 21300354
+      SpritePack_Master_SmartBlur_178: 21300356
+      SpritePack_Master_SmartBlur_179: 21300358
+      SpritePack_Master_SmartBlur_18: 21300036
+      SpritePack_Master_SmartBlur_180: 21300360
+      SpritePack_Master_SmartBlur_181: 21300362
+      SpritePack_Master_SmartBlur_19: 21300038
+      SpritePack_Master_SmartBlur_2: 21300004
+      SpritePack_Master_SmartBlur_20: 21300040
+      SpritePack_Master_SmartBlur_21: 21300042
+      SpritePack_Master_SmartBlur_22: 21300044
+      SpritePack_Master_SmartBlur_23: 21300046
+      SpritePack_Master_SmartBlur_24: 21300048
+      SpritePack_Master_SmartBlur_25: 21300050
+      SpritePack_Master_SmartBlur_26: 21300052
+      SpritePack_Master_SmartBlur_27: 21300054
+      SpritePack_Master_SmartBlur_28: 21300056
+      SpritePack_Master_SmartBlur_29: 21300058
+      SpritePack_Master_SmartBlur_3: 21300006
+      SpritePack_Master_SmartBlur_30: 21300060
+      SpritePack_Master_SmartBlur_31: 21300062
+      SpritePack_Master_SmartBlur_32: 21300064
+      SpritePack_Master_SmartBlur_33: 21300066
+      SpritePack_Master_SmartBlur_34: 21300068
+      SpritePack_Master_SmartBlur_35: 21300070
+      SpritePack_Master_SmartBlur_36: 21300072
+      SpritePack_Master_SmartBlur_37: 21300074
+      SpritePack_Master_SmartBlur_38: 21300076
+      SpritePack_Master_SmartBlur_39: 21300078
+      SpritePack_Master_SmartBlur_4: 21300008
+      SpritePack_Master_SmartBlur_40: 21300080
+      SpritePack_Master_SmartBlur_41: 21300082
+      SpritePack_Master_SmartBlur_42: 21300084
+      SpritePack_Master_SmartBlur_43: 21300086
+      SpritePack_Master_SmartBlur_44: 21300088
+      SpritePack_Master_SmartBlur_45: 21300090
+      SpritePack_Master_SmartBlur_46: 21300092
+      SpritePack_Master_SmartBlur_47: 21300094
+      SpritePack_Master_SmartBlur_48: 21300096
+      SpritePack_Master_SmartBlur_49: 21300098
+      SpritePack_Master_SmartBlur_5: 21300010
+      SpritePack_Master_SmartBlur_50: 21300100
+      SpritePack_Master_SmartBlur_51: 21300102
+      SpritePack_Master_SmartBlur_52: 21300104
+      SpritePack_Master_SmartBlur_53: 21300106
+      SpritePack_Master_SmartBlur_54: 21300108
+      SpritePack_Master_SmartBlur_55: 21300110
+      SpritePack_Master_SmartBlur_56: 21300112
+      SpritePack_Master_SmartBlur_57: 21300114
+      SpritePack_Master_SmartBlur_58: 21300116
+      SpritePack_Master_SmartBlur_59: 21300118
+      SpritePack_Master_SmartBlur_6: 21300012
+      SpritePack_Master_SmartBlur_60: 21300120
+      SpritePack_Master_SmartBlur_61: 21300122
+      SpritePack_Master_SmartBlur_62: 21300124
+      SpritePack_Master_SmartBlur_63: 21300126
+      SpritePack_Master_SmartBlur_64: 21300128
+      SpritePack_Master_SmartBlur_65: 21300130
+      SpritePack_Master_SmartBlur_66: 21300132
+      SpritePack_Master_SmartBlur_67: 21300134
+      SpritePack_Master_SmartBlur_68: 21300136
+      SpritePack_Master_SmartBlur_69: 21300138
+      SpritePack_Master_SmartBlur_7: 21300014
+      SpritePack_Master_SmartBlur_70: 21300140
+      SpritePack_Master_SmartBlur_71: 21300142
+      SpritePack_Master_SmartBlur_72: 21300144
+      SpritePack_Master_SmartBlur_73: 21300146
+      SpritePack_Master_SmartBlur_74: 21300148
+      SpritePack_Master_SmartBlur_75: 21300150
+      SpritePack_Master_SmartBlur_76: 21300152
+      SpritePack_Master_SmartBlur_77: 21300154
+      SpritePack_Master_SmartBlur_78: 21300156
+      SpritePack_Master_SmartBlur_79: 21300158
+      SpritePack_Master_SmartBlur_8: 21300016
+      SpritePack_Master_SmartBlur_80: 21300160
+      SpritePack_Master_SmartBlur_81: 21300162
+      SpritePack_Master_SmartBlur_82: 21300164
+      SpritePack_Master_SmartBlur_83: 21300166
+      SpritePack_Master_SmartBlur_84: 21300168
+      SpritePack_Master_SmartBlur_85: 21300170
+      SpritePack_Master_SmartBlur_86: 21300172
+      SpritePack_Master_SmartBlur_87: 21300174
+      SpritePack_Master_SmartBlur_88: 21300176
+      SpritePack_Master_SmartBlur_89: 21300178
+      SpritePack_Master_SmartBlur_9: 21300018
+      SpritePack_Master_SmartBlur_90: 21300180
+      SpritePack_Master_SmartBlur_91: 21300182
+      SpritePack_Master_SmartBlur_92: 21300184
+      SpritePack_Master_SmartBlur_93: 21300186
+      SpritePack_Master_SmartBlur_94: 21300188
+      SpritePack_Master_SmartBlur_95: 21300190
+      SpritePack_Master_SmartBlur_96: 21300192
+      SpritePack_Master_SmartBlur_97: 21300194
+      SpritePack_Master_SmartBlur_98: 21300196
+      SpritePack_Master_SmartBlur_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

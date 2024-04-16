@@ -549,7 +549,7 @@ TextureImporter:
       213: 21300362
     second: SpritePack_Master_Painterly2_181
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -566,9 +566,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -577,12 +580,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -600,10 +603,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -615,6 +623,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -627,6 +636,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -4464,9 +4500,191 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      SpritePack_Master_Painterly2_0: 21300000
+      SpritePack_Master_Painterly2_1: 21300002
+      SpritePack_Master_Painterly2_10: 21300020
+      SpritePack_Master_Painterly2_100: 21300200
+      SpritePack_Master_Painterly2_101: 21300202
+      SpritePack_Master_Painterly2_102: 21300204
+      SpritePack_Master_Painterly2_103: 21300206
+      SpritePack_Master_Painterly2_104: 21300208
+      SpritePack_Master_Painterly2_105: 21300210
+      SpritePack_Master_Painterly2_106: 21300212
+      SpritePack_Master_Painterly2_107: 21300214
+      SpritePack_Master_Painterly2_108: 21300216
+      SpritePack_Master_Painterly2_109: 21300218
+      SpritePack_Master_Painterly2_11: 21300022
+      SpritePack_Master_Painterly2_110: 21300220
+      SpritePack_Master_Painterly2_111: 21300222
+      SpritePack_Master_Painterly2_112: 21300224
+      SpritePack_Master_Painterly2_113: 21300226
+      SpritePack_Master_Painterly2_114: 21300228
+      SpritePack_Master_Painterly2_115: 21300230
+      SpritePack_Master_Painterly2_116: 21300232
+      SpritePack_Master_Painterly2_117: 21300234
+      SpritePack_Master_Painterly2_118: 21300236
+      SpritePack_Master_Painterly2_119: 21300238
+      SpritePack_Master_Painterly2_12: 21300024
+      SpritePack_Master_Painterly2_120: 21300240
+      SpritePack_Master_Painterly2_121: 21300242
+      SpritePack_Master_Painterly2_122: 21300244
+      SpritePack_Master_Painterly2_123: 21300246
+      SpritePack_Master_Painterly2_124: 21300248
+      SpritePack_Master_Painterly2_125: 21300250
+      SpritePack_Master_Painterly2_126: 21300252
+      SpritePack_Master_Painterly2_127: 21300254
+      SpritePack_Master_Painterly2_128: 21300256
+      SpritePack_Master_Painterly2_129: 21300258
+      SpritePack_Master_Painterly2_13: 21300026
+      SpritePack_Master_Painterly2_130: 21300260
+      SpritePack_Master_Painterly2_131: 21300262
+      SpritePack_Master_Painterly2_132: 21300264
+      SpritePack_Master_Painterly2_133: 21300266
+      SpritePack_Master_Painterly2_134: 21300268
+      SpritePack_Master_Painterly2_135: 21300270
+      SpritePack_Master_Painterly2_136: 21300272
+      SpritePack_Master_Painterly2_137: 21300274
+      SpritePack_Master_Painterly2_138: 21300276
+      SpritePack_Master_Painterly2_139: 21300278
+      SpritePack_Master_Painterly2_14: 21300028
+      SpritePack_Master_Painterly2_140: 21300280
+      SpritePack_Master_Painterly2_141: 21300282
+      SpritePack_Master_Painterly2_142: 21300284
+      SpritePack_Master_Painterly2_143: 21300286
+      SpritePack_Master_Painterly2_144: 21300288
+      SpritePack_Master_Painterly2_145: 21300290
+      SpritePack_Master_Painterly2_146: 21300292
+      SpritePack_Master_Painterly2_147: 21300294
+      SpritePack_Master_Painterly2_148: 21300296
+      SpritePack_Master_Painterly2_149: 21300298
+      SpritePack_Master_Painterly2_15: 21300030
+      SpritePack_Master_Painterly2_150: 21300300
+      SpritePack_Master_Painterly2_151: 21300302
+      SpritePack_Master_Painterly2_152: 21300304
+      SpritePack_Master_Painterly2_153: 21300306
+      SpritePack_Master_Painterly2_154: 21300308
+      SpritePack_Master_Painterly2_155: 21300310
+      SpritePack_Master_Painterly2_156: 21300312
+      SpritePack_Master_Painterly2_157: 21300314
+      SpritePack_Master_Painterly2_158: 21300316
+      SpritePack_Master_Painterly2_159: 21300318
+      SpritePack_Master_Painterly2_16: 21300032
+      SpritePack_Master_Painterly2_160: 21300320
+      SpritePack_Master_Painterly2_161: 21300322
+      SpritePack_Master_Painterly2_162: 21300324
+      SpritePack_Master_Painterly2_163: 21300326
+      SpritePack_Master_Painterly2_164: 21300328
+      SpritePack_Master_Painterly2_165: 21300330
+      SpritePack_Master_Painterly2_166: 21300332
+      SpritePack_Master_Painterly2_167: 21300334
+      SpritePack_Master_Painterly2_168: 21300336
+      SpritePack_Master_Painterly2_169: 21300338
+      SpritePack_Master_Painterly2_17: 21300034
+      SpritePack_Master_Painterly2_170: 21300340
+      SpritePack_Master_Painterly2_171: 21300342
+      SpritePack_Master_Painterly2_172: 21300344
+      SpritePack_Master_Painterly2_173: 21300346
+      SpritePack_Master_Painterly2_174: 21300348
+      SpritePack_Master_Painterly2_175: 21300350
+      SpritePack_Master_Painterly2_176: 21300352
+      SpritePack_Master_Painterly2_177: 21300354
+      SpritePack_Master_Painterly2_178: 21300356
+      SpritePack_Master_Painterly2_179: 21300358
+      SpritePack_Master_Painterly2_18: 21300036
+      SpritePack_Master_Painterly2_180: 21300360
+      SpritePack_Master_Painterly2_181: 21300362
+      SpritePack_Master_Painterly2_19: 21300038
+      SpritePack_Master_Painterly2_2: 21300004
+      SpritePack_Master_Painterly2_20: 21300040
+      SpritePack_Master_Painterly2_21: 21300042
+      SpritePack_Master_Painterly2_22: 21300044
+      SpritePack_Master_Painterly2_23: 21300046
+      SpritePack_Master_Painterly2_24: 21300048
+      SpritePack_Master_Painterly2_25: 21300050
+      SpritePack_Master_Painterly2_26: 21300052
+      SpritePack_Master_Painterly2_27: 21300054
+      SpritePack_Master_Painterly2_28: 21300056
+      SpritePack_Master_Painterly2_29: 21300058
+      SpritePack_Master_Painterly2_3: 21300006
+      SpritePack_Master_Painterly2_30: 21300060
+      SpritePack_Master_Painterly2_31: 21300062
+      SpritePack_Master_Painterly2_32: 21300064
+      SpritePack_Master_Painterly2_33: 21300066
+      SpritePack_Master_Painterly2_34: 21300068
+      SpritePack_Master_Painterly2_35: 21300070
+      SpritePack_Master_Painterly2_36: 21300072
+      SpritePack_Master_Painterly2_37: 21300074
+      SpritePack_Master_Painterly2_38: 21300076
+      SpritePack_Master_Painterly2_39: 21300078
+      SpritePack_Master_Painterly2_4: 21300008
+      SpritePack_Master_Painterly2_40: 21300080
+      SpritePack_Master_Painterly2_41: 21300082
+      SpritePack_Master_Painterly2_42: 21300084
+      SpritePack_Master_Painterly2_43: 21300086
+      SpritePack_Master_Painterly2_44: 21300088
+      SpritePack_Master_Painterly2_45: 21300090
+      SpritePack_Master_Painterly2_46: 21300092
+      SpritePack_Master_Painterly2_47: 21300094
+      SpritePack_Master_Painterly2_48: 21300096
+      SpritePack_Master_Painterly2_49: 21300098
+      SpritePack_Master_Painterly2_5: 21300010
+      SpritePack_Master_Painterly2_50: 21300100
+      SpritePack_Master_Painterly2_51: 21300102
+      SpritePack_Master_Painterly2_52: 21300104
+      SpritePack_Master_Painterly2_53: 21300106
+      SpritePack_Master_Painterly2_54: 21300108
+      SpritePack_Master_Painterly2_55: 21300110
+      SpritePack_Master_Painterly2_56: 21300112
+      SpritePack_Master_Painterly2_57: 21300114
+      SpritePack_Master_Painterly2_58: 21300116
+      SpritePack_Master_Painterly2_59: 21300118
+      SpritePack_Master_Painterly2_6: 21300012
+      SpritePack_Master_Painterly2_60: 21300120
+      SpritePack_Master_Painterly2_61: 21300122
+      SpritePack_Master_Painterly2_62: 21300124
+      SpritePack_Master_Painterly2_63: 21300126
+      SpritePack_Master_Painterly2_64: 21300128
+      SpritePack_Master_Painterly2_65: 21300130
+      SpritePack_Master_Painterly2_66: 21300132
+      SpritePack_Master_Painterly2_67: 21300134
+      SpritePack_Master_Painterly2_68: 21300136
+      SpritePack_Master_Painterly2_69: 21300138
+      SpritePack_Master_Painterly2_7: 21300014
+      SpritePack_Master_Painterly2_70: 21300140
+      SpritePack_Master_Painterly2_71: 21300142
+      SpritePack_Master_Painterly2_72: 21300144
+      SpritePack_Master_Painterly2_73: 21300146
+      SpritePack_Master_Painterly2_74: 21300148
+      SpritePack_Master_Painterly2_75: 21300150
+      SpritePack_Master_Painterly2_76: 21300152
+      SpritePack_Master_Painterly2_77: 21300154
+      SpritePack_Master_Painterly2_78: 21300156
+      SpritePack_Master_Painterly2_79: 21300158
+      SpritePack_Master_Painterly2_8: 21300016
+      SpritePack_Master_Painterly2_80: 21300160
+      SpritePack_Master_Painterly2_81: 21300162
+      SpritePack_Master_Painterly2_82: 21300164
+      SpritePack_Master_Painterly2_83: 21300166
+      SpritePack_Master_Painterly2_84: 21300168
+      SpritePack_Master_Painterly2_85: 21300170
+      SpritePack_Master_Painterly2_86: 21300172
+      SpritePack_Master_Painterly2_87: 21300174
+      SpritePack_Master_Painterly2_88: 21300176
+      SpritePack_Master_Painterly2_89: 21300178
+      SpritePack_Master_Painterly2_9: 21300018
+      SpritePack_Master_Painterly2_90: 21300180
+      SpritePack_Master_Painterly2_91: 21300182
+      SpritePack_Master_Painterly2_92: 21300184
+      SpritePack_Master_Painterly2_93: 21300186
+      SpritePack_Master_Painterly2_94: 21300188
+      SpritePack_Master_Painterly2_95: 21300190
+      SpritePack_Master_Painterly2_96: 21300192
+      SpritePack_Master_Painterly2_97: 21300194
+      SpritePack_Master_Painterly2_98: 21300196
+      SpritePack_Master_Painterly2_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

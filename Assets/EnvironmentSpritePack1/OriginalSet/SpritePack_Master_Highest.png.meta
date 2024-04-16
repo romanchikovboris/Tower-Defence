@@ -798,7 +798,7 @@ TextureImporter:
       213: 21300528
     second: SpritePack_Master_Highest_265
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -815,10 +815,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -827,12 +829,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -850,11 +852,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -866,6 +872,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -878,6 +885,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -890,6 +898,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -902,6 +911,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -914,6 +924,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -6494,9 +6505,274 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      SpritePack_Master_Highest_0: 21300000
+      SpritePack_Master_Highest_1: 21300002
+      SpritePack_Master_Highest_10: 21300020
+      SpritePack_Master_Highest_100: 21300200
+      SpritePack_Master_Highest_101: 21300202
+      SpritePack_Master_Highest_102: 21300204
+      SpritePack_Master_Highest_103: 21300206
+      SpritePack_Master_Highest_104: 21300208
+      SpritePack_Master_Highest_105: 21300210
+      SpritePack_Master_Highest_106: 21300212
+      SpritePack_Master_Highest_107: 21300214
+      SpritePack_Master_Highest_108: 21300216
+      SpritePack_Master_Highest_109: 21300218
+      SpritePack_Master_Highest_11: 21300022
+      SpritePack_Master_Highest_110: 21300220
+      SpritePack_Master_Highest_111: 21300222
+      SpritePack_Master_Highest_112: 21300224
+      SpritePack_Master_Highest_113: 21300226
+      SpritePack_Master_Highest_114: 21300228
+      SpritePack_Master_Highest_115: 21300230
+      SpritePack_Master_Highest_116: 21300232
+      SpritePack_Master_Highest_117: 21300234
+      SpritePack_Master_Highest_118: 21300236
+      SpritePack_Master_Highest_119: 21300238
+      SpritePack_Master_Highest_12: 21300024
+      SpritePack_Master_Highest_120: 21300240
+      SpritePack_Master_Highest_121: 21300242
+      SpritePack_Master_Highest_122: 21300244
+      SpritePack_Master_Highest_123: 21300246
+      SpritePack_Master_Highest_124: 21300248
+      SpritePack_Master_Highest_125: 21300250
+      SpritePack_Master_Highest_126: 21300252
+      SpritePack_Master_Highest_127: 21300254
+      SpritePack_Master_Highest_128: 21300256
+      SpritePack_Master_Highest_129: 21300258
+      SpritePack_Master_Highest_13: 21300026
+      SpritePack_Master_Highest_130: 21300260
+      SpritePack_Master_Highest_131: 21300262
+      SpritePack_Master_Highest_132: 21300264
+      SpritePack_Master_Highest_133: 21300266
+      SpritePack_Master_Highest_134: 21300268
+      SpritePack_Master_Highest_135: 21300270
+      SpritePack_Master_Highest_136: 21300272
+      SpritePack_Master_Highest_137: 21300274
+      SpritePack_Master_Highest_138: 21300276
+      SpritePack_Master_Highest_139: 21300278
+      SpritePack_Master_Highest_14: 21300028
+      SpritePack_Master_Highest_140: 21300280
+      SpritePack_Master_Highest_141: 21300282
+      SpritePack_Master_Highest_142: 21300284
+      SpritePack_Master_Highest_143: 21300286
+      SpritePack_Master_Highest_144: 21300288
+      SpritePack_Master_Highest_145: 21300290
+      SpritePack_Master_Highest_146: 21300292
+      SpritePack_Master_Highest_147: 21300294
+      SpritePack_Master_Highest_148: 21300296
+      SpritePack_Master_Highest_149: 21300298
+      SpritePack_Master_Highest_15: 21300030
+      SpritePack_Master_Highest_150: 21300300
+      SpritePack_Master_Highest_151: 21300302
+      SpritePack_Master_Highest_152: 21300304
+      SpritePack_Master_Highest_153: 21300306
+      SpritePack_Master_Highest_154: 21300308
+      SpritePack_Master_Highest_155: 21300310
+      SpritePack_Master_Highest_156: 21300312
+      SpritePack_Master_Highest_157: 21300314
+      SpritePack_Master_Highest_158: 21300316
+      SpritePack_Master_Highest_159: 21300318
+      SpritePack_Master_Highest_16: 21300032
+      SpritePack_Master_Highest_160: 21300320
+      SpritePack_Master_Highest_161: 21300322
+      SpritePack_Master_Highest_162: 21300324
+      SpritePack_Master_Highest_163: 21300326
+      SpritePack_Master_Highest_164: 21300328
+      SpritePack_Master_Highest_165: 21300330
+      SpritePack_Master_Highest_166: 21300332
+      SpritePack_Master_Highest_167: 21300334
+      SpritePack_Master_Highest_168: 21300336
+      SpritePack_Master_Highest_169: 21300338
+      SpritePack_Master_Highest_17: 21300034
+      SpritePack_Master_Highest_170: 21300340
+      SpritePack_Master_Highest_171: 21300342
+      SpritePack_Master_Highest_172: 21300344
+      SpritePack_Master_Highest_173: 21300346
+      SpritePack_Master_Highest_174: 21300348
+      SpritePack_Master_Highest_175: 21300350
+      SpritePack_Master_Highest_176: 21300352
+      SpritePack_Master_Highest_177: 21300354
+      SpritePack_Master_Highest_178: 21300356
+      SpritePack_Master_Highest_179: 21300358
+      SpritePack_Master_Highest_18: 21300036
+      SpritePack_Master_Highest_180: 21300360
+      SpritePack_Master_Highest_181: 21300362
+      SpritePack_Master_Highest_182: 21300364
+      SpritePack_Master_Highest_183: 21300366
+      SpritePack_Master_Highest_184: 21300368
+      SpritePack_Master_Highest_185: 21300370
+      SpritePack_Master_Highest_186: 21300372
+      SpritePack_Master_Highest_187: 21300374
+      SpritePack_Master_Highest_188: 21300376
+      SpritePack_Master_Highest_189: 21300378
+      SpritePack_Master_Highest_19: 21300038
+      SpritePack_Master_Highest_190: 21300380
+      SpritePack_Master_Highest_191: 21300382
+      SpritePack_Master_Highest_192: 21300384
+      SpritePack_Master_Highest_193: 21300386
+      SpritePack_Master_Highest_194: 21300388
+      SpritePack_Master_Highest_195: 21300390
+      SpritePack_Master_Highest_196: 21300392
+      SpritePack_Master_Highest_197: 21300394
+      SpritePack_Master_Highest_199: 21300396
+      SpritePack_Master_Highest_2: 21300004
+      SpritePack_Master_Highest_20: 21300040
+      SpritePack_Master_Highest_200: 21300398
+      SpritePack_Master_Highest_201: 21300400
+      SpritePack_Master_Highest_202: 21300402
+      SpritePack_Master_Highest_203: 21300404
+      SpritePack_Master_Highest_204: 21300406
+      SpritePack_Master_Highest_205: 21300408
+      SpritePack_Master_Highest_206: 21300410
+      SpritePack_Master_Highest_207: 21300412
+      SpritePack_Master_Highest_208: 21300414
+      SpritePack_Master_Highest_209: 21300416
+      SpritePack_Master_Highest_21: 21300042
+      SpritePack_Master_Highest_210: 21300418
+      SpritePack_Master_Highest_211: 21300420
+      SpritePack_Master_Highest_212: 21300422
+      SpritePack_Master_Highest_213: 21300424
+      SpritePack_Master_Highest_214: 21300426
+      SpritePack_Master_Highest_215: 21300428
+      SpritePack_Master_Highest_216: 21300430
+      SpritePack_Master_Highest_217: 21300432
+      SpritePack_Master_Highest_218: 21300434
+      SpritePack_Master_Highest_219: 21300436
+      SpritePack_Master_Highest_22: 21300044
+      SpritePack_Master_Highest_220: 21300438
+      SpritePack_Master_Highest_221: 21300440
+      SpritePack_Master_Highest_222: 21300442
+      SpritePack_Master_Highest_223: 21300444
+      SpritePack_Master_Highest_224: 21300446
+      SpritePack_Master_Highest_225: 21300448
+      SpritePack_Master_Highest_226: 21300450
+      SpritePack_Master_Highest_227: 21300452
+      SpritePack_Master_Highest_228: 21300454
+      SpritePack_Master_Highest_229: 21300456
+      SpritePack_Master_Highest_23: 21300046
+      SpritePack_Master_Highest_230: 21300458
+      SpritePack_Master_Highest_231: 21300460
+      SpritePack_Master_Highest_232: 21300462
+      SpritePack_Master_Highest_233: 21300464
+      SpritePack_Master_Highest_234: 21300466
+      SpritePack_Master_Highest_235: 21300468
+      SpritePack_Master_Highest_236: 21300470
+      SpritePack_Master_Highest_237: 21300472
+      SpritePack_Master_Highest_238: 21300474
+      SpritePack_Master_Highest_239: 21300476
+      SpritePack_Master_Highest_24: 21300048
+      SpritePack_Master_Highest_240: 21300478
+      SpritePack_Master_Highest_241: 21300480
+      SpritePack_Master_Highest_242: 21300482
+      SpritePack_Master_Highest_243: 21300484
+      SpritePack_Master_Highest_244: 21300486
+      SpritePack_Master_Highest_245: 21300488
+      SpritePack_Master_Highest_246: 21300490
+      SpritePack_Master_Highest_247: 21300492
+      SpritePack_Master_Highest_248: 21300494
+      SpritePack_Master_Highest_249: 21300496
+      SpritePack_Master_Highest_25: 21300050
+      SpritePack_Master_Highest_250: 21300498
+      SpritePack_Master_Highest_251: 21300500
+      SpritePack_Master_Highest_252: 21300502
+      SpritePack_Master_Highest_253: 21300504
+      SpritePack_Master_Highest_254: 21300506
+      SpritePack_Master_Highest_255: 21300508
+      SpritePack_Master_Highest_256: 21300510
+      SpritePack_Master_Highest_257: 21300512
+      SpritePack_Master_Highest_258: 21300514
+      SpritePack_Master_Highest_259: 21300516
+      SpritePack_Master_Highest_26: 21300052
+      SpritePack_Master_Highest_260: 21300518
+      SpritePack_Master_Highest_261: 21300520
+      SpritePack_Master_Highest_262: 21300522
+      SpritePack_Master_Highest_263: 21300524
+      SpritePack_Master_Highest_264: 21300526
+      SpritePack_Master_Highest_265: 21300528
+      SpritePack_Master_Highest_27: 21300054
+      SpritePack_Master_Highest_28: 21300056
+      SpritePack_Master_Highest_29: 21300058
+      SpritePack_Master_Highest_3: 21300006
+      SpritePack_Master_Highest_30: 21300060
+      SpritePack_Master_Highest_31: 21300062
+      SpritePack_Master_Highest_32: 21300064
+      SpritePack_Master_Highest_33: 21300066
+      SpritePack_Master_Highest_34: 21300068
+      SpritePack_Master_Highest_35: 21300070
+      SpritePack_Master_Highest_36: 21300072
+      SpritePack_Master_Highest_37: 21300074
+      SpritePack_Master_Highest_38: 21300076
+      SpritePack_Master_Highest_39: 21300078
+      SpritePack_Master_Highest_4: 21300008
+      SpritePack_Master_Highest_40: 21300080
+      SpritePack_Master_Highest_41: 21300082
+      SpritePack_Master_Highest_42: 21300084
+      SpritePack_Master_Highest_43: 21300086
+      SpritePack_Master_Highest_44: 21300088
+      SpritePack_Master_Highest_45: 21300090
+      SpritePack_Master_Highest_46: 21300092
+      SpritePack_Master_Highest_47: 21300094
+      SpritePack_Master_Highest_48: 21300096
+      SpritePack_Master_Highest_49: 21300098
+      SpritePack_Master_Highest_5: 21300010
+      SpritePack_Master_Highest_50: 21300100
+      SpritePack_Master_Highest_51: 21300102
+      SpritePack_Master_Highest_52: 21300104
+      SpritePack_Master_Highest_53: 21300106
+      SpritePack_Master_Highest_54: 21300108
+      SpritePack_Master_Highest_55: 21300110
+      SpritePack_Master_Highest_56: 21300112
+      SpritePack_Master_Highest_57: 21300114
+      SpritePack_Master_Highest_58: 21300116
+      SpritePack_Master_Highest_59: 21300118
+      SpritePack_Master_Highest_6: 21300012
+      SpritePack_Master_Highest_60: 21300120
+      SpritePack_Master_Highest_61: 21300122
+      SpritePack_Master_Highest_62: 21300124
+      SpritePack_Master_Highest_63: 21300126
+      SpritePack_Master_Highest_64: 21300128
+      SpritePack_Master_Highest_65: 21300130
+      SpritePack_Master_Highest_66: 21300132
+      SpritePack_Master_Highest_67: 21300134
+      SpritePack_Master_Highest_68: 21300136
+      SpritePack_Master_Highest_69: 21300138
+      SpritePack_Master_Highest_7: 21300014
+      SpritePack_Master_Highest_70: 21300140
+      SpritePack_Master_Highest_71: 21300142
+      SpritePack_Master_Highest_72: 21300144
+      SpritePack_Master_Highest_73: 21300146
+      SpritePack_Master_Highest_74: 21300148
+      SpritePack_Master_Highest_75: 21300150
+      SpritePack_Master_Highest_76: 21300152
+      SpritePack_Master_Highest_77: 21300154
+      SpritePack_Master_Highest_78: 21300156
+      SpritePack_Master_Highest_79: 21300158
+      SpritePack_Master_Highest_8: 21300016
+      SpritePack_Master_Highest_80: 21300160
+      SpritePack_Master_Highest_81: 21300162
+      SpritePack_Master_Highest_82: 21300164
+      SpritePack_Master_Highest_83: 21300166
+      SpritePack_Master_Highest_84: 21300168
+      SpritePack_Master_Highest_85: 21300170
+      SpritePack_Master_Highest_86: 21300172
+      SpritePack_Master_Highest_87: 21300174
+      SpritePack_Master_Highest_88: 21300176
+      SpritePack_Master_Highest_89: 21300178
+      SpritePack_Master_Highest_9: 21300018
+      SpritePack_Master_Highest_90: 21300180
+      SpritePack_Master_Highest_91: 21300182
+      SpritePack_Master_Highest_92: 21300184
+      SpritePack_Master_Highest_93: 21300186
+      SpritePack_Master_Highest_94: 21300188
+      SpritePack_Master_Highest_95: 21300190
+      SpritePack_Master_Highest_96: 21300192
+      SpritePack_Master_Highest_97: 21300194
+      SpritePack_Master_Highest_98: 21300196
+      SpritePack_Master_Highest_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

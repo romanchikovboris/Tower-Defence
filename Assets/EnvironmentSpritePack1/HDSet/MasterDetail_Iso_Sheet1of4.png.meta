@@ -252,7 +252,7 @@ TextureImporter:
       213: 21300164
     second: MasterDetail_Iso_Sheet1of4_83
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -269,9 +269,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -280,12 +283,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -303,10 +306,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -318,6 +326,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -330,6 +339,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -2088,9 +2124,92 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      MasterDetail_Iso_Sheet1of4_0: 21300000
+      MasterDetail_Iso_Sheet1of4_1: 21300002
+      MasterDetail_Iso_Sheet1of4_10: 21300020
+      MasterDetail_Iso_Sheet1of4_11: 21300022
+      MasterDetail_Iso_Sheet1of4_12: 21300024
+      MasterDetail_Iso_Sheet1of4_13: 21300026
+      MasterDetail_Iso_Sheet1of4_14: 21300028
+      MasterDetail_Iso_Sheet1of4_15: 21300030
+      MasterDetail_Iso_Sheet1of4_16: 21300032
+      MasterDetail_Iso_Sheet1of4_17: 21300034
+      MasterDetail_Iso_Sheet1of4_18: 21300036
+      MasterDetail_Iso_Sheet1of4_19: 21300038
+      MasterDetail_Iso_Sheet1of4_2: 21300004
+      MasterDetail_Iso_Sheet1of4_20: 21300040
+      MasterDetail_Iso_Sheet1of4_21: 21300042
+      MasterDetail_Iso_Sheet1of4_22: 21300044
+      MasterDetail_Iso_Sheet1of4_23: 21300046
+      MasterDetail_Iso_Sheet1of4_24: 21300048
+      MasterDetail_Iso_Sheet1of4_25: 21300050
+      MasterDetail_Iso_Sheet1of4_26: 21300052
+      MasterDetail_Iso_Sheet1of4_27: 21300054
+      MasterDetail_Iso_Sheet1of4_28: 21300056
+      MasterDetail_Iso_Sheet1of4_29: 21300058
+      MasterDetail_Iso_Sheet1of4_3: 21300006
+      MasterDetail_Iso_Sheet1of4_30: 21300060
+      MasterDetail_Iso_Sheet1of4_31: 21300062
+      MasterDetail_Iso_Sheet1of4_32: 21300064
+      MasterDetail_Iso_Sheet1of4_33: 21300066
+      MasterDetail_Iso_Sheet1of4_34: 21300068
+      MasterDetail_Iso_Sheet1of4_35: 21300070
+      MasterDetail_Iso_Sheet1of4_36: 21300072
+      MasterDetail_Iso_Sheet1of4_37: 21300074
+      MasterDetail_Iso_Sheet1of4_38: 21300076
+      MasterDetail_Iso_Sheet1of4_39: 21300078
+      MasterDetail_Iso_Sheet1of4_4: 21300008
+      MasterDetail_Iso_Sheet1of4_40: 21300080
+      MasterDetail_Iso_Sheet1of4_41: 21300082
+      MasterDetail_Iso_Sheet1of4_42: 21300084
+      MasterDetail_Iso_Sheet1of4_43: 21300086
+      MasterDetail_Iso_Sheet1of4_44: 21300088
+      MasterDetail_Iso_Sheet1of4_45: 21300090
+      MasterDetail_Iso_Sheet1of4_47: 21300092
+      MasterDetail_Iso_Sheet1of4_48: 21300094
+      MasterDetail_Iso_Sheet1of4_49: 21300096
+      MasterDetail_Iso_Sheet1of4_5: 21300010
+      MasterDetail_Iso_Sheet1of4_50: 21300098
+      MasterDetail_Iso_Sheet1of4_51: 21300100
+      MasterDetail_Iso_Sheet1of4_52: 21300102
+      MasterDetail_Iso_Sheet1of4_53: 21300104
+      MasterDetail_Iso_Sheet1of4_54: 21300106
+      MasterDetail_Iso_Sheet1of4_55: 21300108
+      MasterDetail_Iso_Sheet1of4_56: 21300110
+      MasterDetail_Iso_Sheet1of4_57: 21300112
+      MasterDetail_Iso_Sheet1of4_58: 21300114
+      MasterDetail_Iso_Sheet1of4_59: 21300116
+      MasterDetail_Iso_Sheet1of4_6: 21300012
+      MasterDetail_Iso_Sheet1of4_60: 21300118
+      MasterDetail_Iso_Sheet1of4_61: 21300120
+      MasterDetail_Iso_Sheet1of4_62: 21300122
+      MasterDetail_Iso_Sheet1of4_63: 21300124
+      MasterDetail_Iso_Sheet1of4_64: 21300126
+      MasterDetail_Iso_Sheet1of4_65: 21300128
+      MasterDetail_Iso_Sheet1of4_66: 21300130
+      MasterDetail_Iso_Sheet1of4_67: 21300132
+      MasterDetail_Iso_Sheet1of4_68: 21300134
+      MasterDetail_Iso_Sheet1of4_69: 21300136
+      MasterDetail_Iso_Sheet1of4_7: 21300014
+      MasterDetail_Iso_Sheet1of4_70: 21300138
+      MasterDetail_Iso_Sheet1of4_71: 21300140
+      MasterDetail_Iso_Sheet1of4_72: 21300142
+      MasterDetail_Iso_Sheet1of4_73: 21300144
+      MasterDetail_Iso_Sheet1of4_74: 21300146
+      MasterDetail_Iso_Sheet1of4_75: 21300148
+      MasterDetail_Iso_Sheet1of4_76: 21300150
+      MasterDetail_Iso_Sheet1of4_77: 21300152
+      MasterDetail_Iso_Sheet1of4_78: 21300154
+      MasterDetail_Iso_Sheet1of4_79: 21300156
+      MasterDetail_Iso_Sheet1of4_8: 21300016
+      MasterDetail_Iso_Sheet1of4_80: 21300158
+      MasterDetail_Iso_Sheet1of4_81: 21300160
+      MasterDetail_Iso_Sheet1of4_82: 21300162
+      MasterDetail_Iso_Sheet1of4_83: 21300164
+      MasterDetail_Iso_Sheet1of4_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
